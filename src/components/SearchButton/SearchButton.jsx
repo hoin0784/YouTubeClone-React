@@ -37,7 +37,7 @@ export default function SearchButton() {
         </li>
 
         <li>
-          <Link to='Videos/NaviBtn/News'>
+          <Link to='Videos/News'>
             <FaRegNewspaper className='m-auto' />
             <h1>News</h1>
           </Link>
