@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "W-hDWf9Ik6Sa7JZUTFI8PMGSh9U",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1358,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pXGkhhMXsd4__ZSdZTtFVL9NboE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w_Ma8oQLmSM"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-12T00:32:37Z",
+        "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+        "title": "LIVE: Latest News Headlines and Events | ABC News Live",
+        "description": "breakingnews #livenews #abcnews #news LATEST UPDATES: https://abcnews.go.com/ SUBSCRIBE to ABC News on YouTube: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w_Ma8oQLmSM/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w_Ma8oQLmSM/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w_Ma8oQLmSM/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABC News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2020-02-12T00:32:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nG2MUVhiqH3wsEUOzhwzn10yu00",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4gbwUIHiRG0"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-10T13:29:50Z",
+        "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+        "title": "LIVE: Latest News, Breaking Stories and Analysis on January 10 | CBS News",
+        "description": "Sources say classified documents from President Biden's vice presidency were found at a D.C. think tank, severe storms in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4gbwUIHiRG0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4gbwUIHiRG0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4gbwUIHiRG0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CBS News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-01-10T13:29:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fpvT2ehQxXusJIDhG5v17v1kGIo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9Auq9mYxFEE"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-02T09:49:18Z",
+        "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+        "title": "Watch Sky News live",
+        "description": "Watch Sky News live: Three top Labour MPs are facing calls to return hundreds of thousands of pounds donated to them by a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Auq9mYxFEE/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Auq9mYxFEE/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Auq9mYxFEE/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sky News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2019-11-02T09:49:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aamYpdmDGPUV_mnTTSErL_u-xKI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GEumHK0hfdo"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-26T00:40:34Z",
+        "channelId": "UCNye-wNBqNL5ZzHSJj3l8Bg",
+        "title": "🔴 Al Jazeera English | Live",
+        "description": "Al Jazeera English, we focus on people and events that affect people's lives. We bring topics to light that often go under-reported, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GEumHK0hfdo/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GEumHK0hfdo/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GEumHK0hfdo/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Al Jazeera English",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-11-26T00:40:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "47dMBoHIdSwNK1kvvHzb1WpKu9Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dp8PhLsUcFE"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-06T18:55:47Z",
+        "channelId": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+        "title": "Bloomberg Global Financial News LIVE",
+        "description": "Bloomberg Global News brings you live coverage of the markets open and close, plus everything you need to know across ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dp8PhLsUcFE/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dp8PhLsUcFE/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dp8PhLsUcFE/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bloomberg Quicktake: Originals",
+        "liveBroadcastContent": "live",
+        "publishTime": "2018-11-06T18:55:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZOndgPvoOwKlVJ0xfZ6KltH7iw0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3JlVqzNSYys"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-30T07:24:28Z",
+        "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+        "title": "WION LIVE - World Latest English News | International News | Top English News | Live News",
+        "description": "Catch the following big stories only on WION: - Can UK's 'silver spoon' Prime Minster Rishi Sunak solve the country's crippling ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3JlVqzNSYys/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3JlVqzNSYys/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3JlVqzNSYys/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WION",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-11-30T07:24:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d4IfSv-GLDPjvGUePbCTcHkHl8s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h3MuIUNCCzI"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-31T14:49:02Z",
+        "channelId": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+        "title": "FRANCE 24 English – LIVE – International Breaking News &amp; Top stories - 24/7 stream",
+        "description": "Watch FRANCE 24 live in English on YouTube for free: all the latest International News broadcasted from Paris, France.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h3MuIUNCCzI/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h3MuIUNCCzI/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h3MuIUNCCzI/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FRANCE 24 English",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-01-31T14:49:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T3-LaMdqOWXQpp6VqfOIm6L-FxI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O6pGuFmhe0g"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-14T19:28:20Z",
+        "channelId": "UC1FbPiXx59_ltnFVx7IxWow",
+        "title": "Severe Weather Threat Emerges in California After Atmospheric River Slams State | FOX Weather",
+        "description": "FOX Weather is closely tracking today's weather threat. #california #flooding Subscribe to FOX Weather! Watch more FOX ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O6pGuFmhe0g/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O6pGuFmhe0g/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O6pGuFmhe0g/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FOX Weather",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-11-14T19:28:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "83V1Yx2zGe2ytL6OcVJmyl3Buco",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vOTiJkg1voo"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-19T23:50:36Z",
+        "channelId": "UCVgO39Bk5sMo66-6o6Spn6Q",
+        "title": "Watch ABC News Australia live | ABC News",
+        "description": "Subscribe: http://ab.co/1svxLVE Read more here: https://www.abc.net.au/news/ ABC News provides around the clock coverage of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vOTiJkg1voo/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vOTiJkg1voo/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABC News (Australia)",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-02-19T23:50:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tearEOgAg08H5pW9_6K0UpsdFMw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ammKkVgtIHw"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-15T09:39:29Z",
+        "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
+        "title": "DW News livestream | Headline news from around the world",
+        "description": "DW News goes deep beneath the surface, providing the key stories from Europe and around the world. Exciting reports and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ammKkVgtIHw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ammKkVgtIHw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ammKkVgtIHw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DW News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-11-15T09:39:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CJM643Hlu_4-jzdaOI5CruJ2hTs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9NyxcX3rhQs"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-03T13:17:55Z",
+        "channelId": "UCvJJ_dzjViJCoLf5uKUTwoA",
+        "title": "LIVE: CNBC Marathon - Documentaries and deep dives 24/7",
+        "description": "From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNBC",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-11-03T13:17:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ybnu--UWsV6EYibl7dh1l0v6BME",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TxnH9xYKIuY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-10T04:38:25Z",
+        "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+        "title": "LIVE: NBC News NOW - Jan. 10",
+        "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TxnH9xYKIuY/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TxnH9xYKIuY/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TxnH9xYKIuY/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-01-10T04:38:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G9zzYFpnUp1Od3ud23jAoPTixO8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XWq5kBlakcQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-21T11:15:18Z",
+        "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
+        "title": "[CNA 24/7 LIVE] Breaking news, top stories and documentaries",
+        "description": "Watch CNA's 24-hour live coverage of the latest headlines and top stories from Singapore, Asia and around the world, as well as ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNA",
+        "liveBroadcastContent": "live",
+        "publishTime": "2020-04-21T11:15:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uST8m5Q0KSDku58PtQMJtmN5wpU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DxmDPrfinXY"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-25T13:10:28Z",
+        "channelId": "UChirEOpgFCupRAk5etXqPaA",
+        "title": "Bloomberg Quicktake: Now 24/7 Live Breaking News",
+        "description": "Bloomberg Quicktake: Now brings you 24/7 live global news with minute-by-minute coverage of the day's top stories and original ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DxmDPrfinXY/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DxmDPrfinXY/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DxmDPrfinXY/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bloomberg Quicktake: Now",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-04-25T13:10:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H1L865zCXNnv8icNGH9vOr7vJaw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "21X5lGlDOfg"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-28T18:40:15Z",
+        "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+        "title": "NASA Live: Official Stream of NASA TV",
+        "description": "Direct from America's space program to YouTube, watch NASA TV live streaming here to get the latest from our exploration of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/21X5lGlDOfg/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/21X5lGlDOfg/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/21X5lGlDOfg/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NASA",
+        "liveBroadcastContent": "live",
+        "publishTime": "2018-12-28T18:40:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YP6jyR_BhUyPO2WllA01Y_zjf0I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f0lYkdA-Gtw"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-10T00:41:06Z",
+        "channelId": "UCSPEjw8F2nQDtmUKPFNF7_A",
+        "title": "LIVE: NHK WORLD-JAPAN News",
+        "description": "Every Hour. Every Day. Live News from Japan, Asia and the World. Latest News On Demand: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f0lYkdA-Gtw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f0lYkdA-Gtw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f0lYkdA-Gtw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NHK WORLD-JAPAN",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-03-10T00:41:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6St07errMfw2hluxY1vz9EkLomU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vJLE0Suiwng"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-10T14:50:07Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Trump Takes Dig At Biden Over Classified Documents Discovery | Donald Trump | Joe Biden | USA News",
+        "description": "Former US President Donald Trump took a dig at the current President Joe Biden after it was reported that some classified ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vJLE0Suiwng/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vJLE0Suiwng/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vJLE0Suiwng/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-01-10T14:50:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4W8k0uwPAwkOpzdKaGrbQG-UT1w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FGabkYr-Sfs"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-20T11:13:13Z",
+        "channelId": "UCj0TppyxzQWm9JbMg3CP8Rg",
+        "title": "🔴 Watch CGTN News LIVE HD 24/7",
+        "description": "Our motto is 'See The Difference' and that's exactly what we offer – a fresh take on the news, with features and analysis on current ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FGabkYr-Sfs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FGabkYr-Sfs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FGabkYr-Sfs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CGTN Europe",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-02-20T11:13:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "leR_3tMvXVFsF7iJTnr52Shb-1I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lNIXUC54a68"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-04T04:06:23Z",
+        "channelId": "UCKVsdeoHExltrWMuK0hOWmg",
+        "title": "KTN News Live ~ Streaming Kenya, Africa and World news and programmes 24/7",
+        "description": "Trending #KTNNews #livestream #ktnprime KTN News Live ~ Streaming Kenya, Africa and World news and programmes 24/7 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lNIXUC54a68/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lNIXUC54a68/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lNIXUC54a68/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KTN News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-01-04T04:06:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "klyita1GGCCfSSRL-rQVRXxL2LQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nA9UZF-SZoQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-14T17:18:43Z",
+        "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+        "title": "NASA Live: Official Stream of NASA TV&#39;s Media Channel",
+        "description": "Direct from America's space program to YouTube, watch NASA TV live streaming here to get the latest from our exploration of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nA9UZF-SZoQ/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nA9UZF-SZoQ/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nA9UZF-SZoQ/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NASA",
+        "liveBroadcastContent": "live",
+        "publishTime": "2019-02-14T17:18:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a8JV4iZ7zghg8GKMvq4AoRY-uuU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rDwEepqXKEs"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-10T10:21:46Z",
+        "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
+        "title": "14 dead in California amid storms, New details in Ana Walshe disappearance | LiveNOW from FOX",
+        "description": "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1 Where to watch LiveNOW from FOX: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rDwEepqXKEs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rDwEepqXKEs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rDwEepqXKEs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LiveNOW from FOX",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-01-10T10:21:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YnnBez8cGQHk0L9XeRm4b2BxLpw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z-VVLWWvAEU"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-04T22:58:56Z",
+        "channelId": "UCDmNmxF3ZVMeGyvWE9tOqPQ",
+        "title": "Houston, Texas | 24/7 Live City Camera",
+        "description": "Watch a 24/7 live tower cam around Houston, Texas from the ABC13 tower in Upper Kirby. ABC13 Houston weather forecast: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z-VVLWWvAEU/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z-VVLWWvAEU/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z-VVLWWvAEU/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABC13 Houston",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-03-04T22:58:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "314GN5zjb2Z6vjg128EjESpfg8o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TD0A7fHAxKw"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-25T07:12:44Z",
+        "channelId": "UCQIycDaLsBpMKjOCeaKUYVg",
+        "title": "CNBC Awaaz Live : Share Market Updates Live | Latest Business News | Stock Market News LIVE | Nifty",
+        "description": "First Trade की बड़ी खबरें | CNBC Awaaz Live | Business News Live | Share Market Live | 10 January Share Market ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TD0A7fHAxKw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TD0A7fHAxKw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TD0A7fHAxKw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNBC Awaaz.",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-04-25T07:12:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xvUvAUAlZiy5A5M12IHSd49yF7k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "II_m28Bm-iM"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-13T10:03:22Z",
+        "channelId": "UCPXTXMecYqnRKNdqdVOGSFg",
+        "title": "TV9 Telugu News LIVE",
+        "description": "Watch LIVE: https://goo.gl/w3aQde తాజా వార్తల కోసం : https://tv9telugu.com/ ▻ Like us on Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/II_m28Bm-iM/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/II_m28Bm-iM/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/II_m28Bm-iM/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV9 Telugu Live",
+        "liveBroadcastContent": "live",
+        "publishTime": "2021-09-13T10:03:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xpxaRdrKc_g1chQiK5ZV4xUOWbY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-c8LoR84Xjs"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-15T08:27:20Z",
+        "channelId": "UCEXGDNclvmg6RW0vipJYsTQ",
+        "title": "Channels Television Live",
+        "description": "SUBSCRIBE to our YouTube channel for more videos: https://www.youtube.com/channelstelevision Follow us on Twitter: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-c8LoR84Xjs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-c8LoR84Xjs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-c8LoR84Xjs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Channels Television",
+        "liveBroadcastContent": "live",
+        "publishTime": "2020-07-15T08:27:20Z"
+      }
+    }
+  ]
+}

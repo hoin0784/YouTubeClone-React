@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "3hZLWIzHXt5Kky0R2lVs8OpaaPo",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h3utCAnVcsWB-p3R7hP_rHT6_Tk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g19wGa-dTq4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-10T14:16:11Z",
+        "channelId": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
+        "title": "10 BEST Gareth Bale Goals | Premier League",
+        "description": "10 of the best Gareth Bale goals scored in the Premier League featuring: Manchester United 2-3 Tottenham Hotspur 2012/13 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g19wGa-dTq4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g19wGa-dTq4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g19wGa-dTq4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Premier League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-10T14:16:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q1RZ-nSUk-npudf2EyDjeJqBj1g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bNSx8MM3KsE"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-10T18:12:49Z",
+        "channelId": "UCNWgHP_0lBoB8QqECjZTgoQ",
+        "title": "I Won the Premier League with a 0 Overall Club",
+        "description": "In this FIFA 23 Career Mode video I attempt to win the Premier League with a 0 Overall Rated Squad! Subscribe for more FIFA 23 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bNSx8MM3KsE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bNSx8MM3KsE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bNSx8MM3KsE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BFordLancer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-10T18:12:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mF9gYftAvR9euN7wTuaMZGplOz8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m5ffxEVNyJw"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-09T22:00:14Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "The Premier League&#39;s most important players heading into 2023 | The Breakdown | NBC Sports",
+        "description": "In this edition of the Breakdown, Joe Prince-Wright takes a deep dive into the players who will shape the Premier League in 2023 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m5ffxEVNyJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m5ffxEVNyJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m5ffxEVNyJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-09T22:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n3LoQqYrJXXHBCdvoGFngdyfDGk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MpM3RZeIZrQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-05T23:34:48Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Chelsea v. Manchester City | PREMIER LEAGUE HIGHLIGHTS | 1/5/2023 | NBC Sports",
+        "description": "Jack Grealish and Riyad Mahrez came off the bench to combine for the decisive goal that gave Manchester City all three points ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MpM3RZeIZrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MpM3RZeIZrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MpM3RZeIZrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-05T23:34:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EszTzBm44MUnA_CEiIpTfMCEVjk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rMZVhL8obAk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-01T17:00:23Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "The top 25 Premier League goals of 2022 | NBC Sports",
+        "description": "Relive the year that was in the Premier League with the 25 most show-stopping goals. #NBCSports #PremierLeague ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rMZVhL8obAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rMZVhL8obAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rMZVhL8obAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-01T17:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CxLwlonHOjIa10tg4OFNdcqRO_g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4ceihG3WgMk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-09T13:18:42Z",
+        "channelId": "UCkzCjdRMrW2vXLx8mvPVLdQ",
+        "title": "EXTENDED HIGHLIGHTS | Man City 4-0 Chelsea | Mahrez, Alvarez &amp; Foden goals seal FA Cup progress!",
+        "description": "City ensured progress through to the Fourth Round of the FA Cup – and a clash with either Oxford or Arsenal – after seeing off ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4ceihG3WgMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4ceihG3WgMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4ceihG3WgMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Man City",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-09T13:18:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ArMyJOnR6FPCX3ccCpXswqRSlQg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S18WDkYIU5E"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-09T22:02:41Z",
+        "channelId": "UC6c1z7bA__85CIWZ_jpCK-Q",
+        "title": "🚨 A DATE WITH MAN CITY! 🚨 Oxford United vs. Arsenal | FA Cup Highlights | ESPN FC",
+        "description": "Arsenal squeak into the FA Cup fourth round after a 3-0 win over Oxford United, courtesy of second-half goals from Mohamed ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S18WDkYIU5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S18WDkYIU5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S18WDkYIU5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ESPN FC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-09T22:02:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "03ePyGXhG6MAc318nSkq4I7lbFs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JMKwGjbEJSA"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-23T20:00:10Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "The 2022-23 Premier League season so far | NBC Sports",
+        "description": "Catch up on everything you might have missed over the first four months of the 2022-23 Premier League season before it returns ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JMKwGjbEJSA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JMKwGjbEJSA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JMKwGjbEJSA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-23T20:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ur22z-WPjaFhhaYqp5L_sM_e1bk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7dcwAz8zb3Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-09T16:33:01Z",
+        "channelId": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
+        "title": "Goals SO GOOD the goalkeepers DO NOT MOVE! | Premier League",
+        "description": "Goals so good the goalkeepers do not move! A compilation of Premier League goals scored where the goalkeepers do not ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7dcwAz8zb3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7dcwAz8zb3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7dcwAz8zb3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Premier League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-09T16:33:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j2KV7JWw7iw_54-ijO00YDeanUA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i9-g1Q6t5tk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-02T21:12:07Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Brentford v. Liverpool | PREMIER LEAGUE HIGHLIGHTS | 1/2/2023 | NBC Sports",
+        "description": "Brentford sprung a new year's upset, punishing a disorganized Liverpool side in a 3-1 victory at the Gtech Community Stadium.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i9-g1Q6t5tk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i9-g1Q6t5tk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i9-g1Q6t5tk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-02T21:12:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PMnhtX8sHTAfHv8p_VNThKRQ0EA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uCwB1UDu4Q0"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-01T19:54:46Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Nottingham Forest v. Chelsea | PREMIER LEAGUE HIGHLIGHTS | 1/1/2023 | NBC Sports",
+        "description": "Serge Aurier canceled out Raheem Sterling's opener to give Nottingham Forest a valuable point against Chelsea. #NBCSports ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uCwB1UDu4Q0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uCwB1UDu4Q0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uCwB1UDu4Q0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-01T19:54:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y8OCZPNH70BgIkEE_Kf-GAbmjUM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AaWGY_r50JU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-04T00:03:15Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Manchester United v. Bournemouth | PREMIER LEAGUE HIGHLIGHTS | 1/3/2023 | NBC Sports",
+        "description": "Manchester United eased past Bournemouth and opened up a five-point cushion in fourth place thanks to goals from Casemiro, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AaWGY_r50JU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AaWGY_r50JU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AaWGY_r50JU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-04T00:03:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sXXsq7atWSptF_LSVKTHEy7ezvg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nFL6SJ9Sqas"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-04T23:22:53Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Crystal Palace v. Tottenham Hotspur | PREMIER LEAGUE HIGHLIGHTS | 1/4/2023 | NBC Sports",
+        "description": "Harry Kane's brace inspired a second-half eruption that gave Tottenham an emphatic 4-0 derby win over Crystal Palace.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nFL6SJ9Sqas/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nFL6SJ9Sqas/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nFL6SJ9Sqas/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-04T23:22:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jjfz-d17AoFJYF01bsm25pQbqUg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-EhTxKS5pXE"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-01T17:27:50Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Tottenham Hotspur v. Aston Villa | PREMIER LEAGUE HIGHLIGHTS | 1/1/2023 | NBC Sports",
+        "description": "Tottenham endured a nightmare start to 2023, while Aston Villa kicked off the new year on a flyer with a 2-0 win in North London ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-EhTxKS5pXE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-EhTxKS5pXE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-EhTxKS5pXE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-01T17:27:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_nNnRGxYUiScjghGO2SoCBZDsPQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XHS1mkf5pD4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-08T18:27:06Z",
+        "channelId": "UC6c1z7bA__85CIWZ_jpCK-Q",
+        "title": "🚨 SUNDAY STROLL! 🚨 Manchester City vs. Chelsea | FA Cup Highlights | ESPN FC",
+        "description": "Manchester City cruise past Chelsea in the FA Cup third round with a 4-0 win over Graham Potter's side. #ESPNFC #FACup ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XHS1mkf5pD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XHS1mkf5pD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XHS1mkf5pD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ESPN FC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-08T18:27:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kx4Zf1cA2v8rzAfCxG9eOtMo11w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tIfPoNZeGlo"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-31T20:52:26Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Brighton v. Arsenal | PREMIER LEAGUE HIGHLIGHTS | 12/31/2022 | NBC Sports",
+        "description": "Bukayo Saka scored in the second minute, and Arsenal never looked back, moving seven points clear atop the table with a win ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tIfPoNZeGlo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tIfPoNZeGlo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tIfPoNZeGlo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-31T20:52:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lZkUjc2FckOSxqGbI_A_dXVIm4M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dC0CerqBU4c"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-31T00:57:34Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Liverpool v. Leicester City | PREMIER LEAGUE HIGHLIGHTS | 12/30/2022 | NBC Sports",
+        "description": "A pair of own goals from Wout Faes doomed Leicester City, as the Foxes squandered Kiernan Dewsbury-Hall's opener to suffer a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dC0CerqBU4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dC0CerqBU4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dC0CerqBU4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-31T00:57:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IqhUEYpGHfBz2OgSVP0QjLfuXoY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZLYc2bKvgf8"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-03T16:01:00Z",
+        "channelId": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
+        "title": "BEST Premier League goals of 2022 ft. Son Heung-min, Cristiano Ronaldo &amp; more!",
+        "description": "A compilation of the best Premier League goals scored from 2022 featuring Son Heung-min (Tottenham Hotspur), Cristiano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZLYc2bKvgf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZLYc2bKvgf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZLYc2bKvgf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Premier League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-03T16:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2X_0SDhGubqeexABnAG5NyfolgA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NTX37EDOQhM"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-28T23:46:07Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Leeds United v. Manchester City | PREMIER LEAGUE HIGHLIGHTS | 12/28/2022 | NBC Sports",
+        "description": "Rodri opened City's account just before the half and Erling Haaland followed with a brace to spark the champions to a comfortable ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NTX37EDOQhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NTX37EDOQhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NTX37EDOQhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-28T23:46:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mQwN7Lcj0MbWhzFwbluN-PzAqJQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1sfYTmsb30Y"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-31T16:15:50Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Wolves v. Manchester United | PREMIER LEAGUE HIGHLIGHTS | 12/31/2022 | NBC Sports",
+        "description": "Marcus Rashford redeemed himself after a disciplinary breach took him out of the starting lineup, coming off the bench to inspire ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1sfYTmsb30Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1sfYTmsb30Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1sfYTmsb30Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-31T16:15:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rfLM9WIaP_kKm0kFN6VMeMJEicw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_uQT86rvTsM"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T00:42:06Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Arsenal v. West Ham United | PREMIER LEAGUE HIGHLIGHTS | 12/26/2022 | NBC Sports",
+        "description": "Arsenal made another statement in the title race, fighting back after Said Benrahma's opening goal to claim a 3-1 win against West ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_uQT86rvTsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_uQT86rvTsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_uQT86rvTsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-27T00:42:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NaGbBr16csLxv-UKNCnmGaCSacQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v458aHZV4f8"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-10T13:43:36Z",
+        "channelId": "UCChcWqwYXCEs657MQ00qVWA",
+        "title": "Nketiah Brace Sets Up Fourth Round Showdown v City | Oxford United 0-3 Arsenal Emirates FA Cup 22-23",
+        "description": "Arsenal expertly dismantled a stubborn Oxford United side who did well to keep The Gunners at bay in the first half, goals from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v458aHZV4f8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v458aHZV4f8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v458aHZV4f8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Emirates FA Cup",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-10T13:43:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cV4mTIMsZx4GTNhN1zOg6Xotjd8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-fnwHbtB7ho"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-31T18:52:04Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Manchester City v. Everton | PREMIER LEAGUE HIGHLIGHTS | 12/31/2022 | NBC Sports",
+        "description": "Man City appeared to be cruising to victory thanks to another Erling Haaland goal, but Demarai Gray's 64th-minute screamer gave ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-fnwHbtB7ho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-fnwHbtB7ho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-fnwHbtB7ho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-31T18:52:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CoBKcjVyIy2VZjRiUDJtCvFYheI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A5VmqCkqkAY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-06T01:17:47Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Every Premier League goal from Matchweek 19 (2022-23) | NBC Sports",
+        "description": "Watch all the goals from Matchweek 19 of the 2022-23 Premier League season. #NBCSports #PremierLeague » Subscribe to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A5VmqCkqkAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A5VmqCkqkAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A5VmqCkqkAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-06T01:17:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dDNT5ZIc2yVn7FuP8fTpZZ3FyZc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bdOjGgBTuL8"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-01T20:22:12Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "State of Premier League title race entering 2023 | NBC Sports",
+        "description": "Robbie Mustoe and Robbie Earle discuss Arsenal and Manchester City's duel for the Premier League trophy as the 2022-23 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bdOjGgBTuL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bdOjGgBTuL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bdOjGgBTuL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-01T20:22:12Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1181 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "acNKuGy7IiO6uQ3AeJjxwV8KecM",
+  "nextPageToken": "EAAaBlBUOkNCaw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fYCCza2LrxuUIxJs1DQJJJVoY9c",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy44MjFBOENEMzNFQzFBQ0Ix",
+      "snippet": {
+        "publishedAt": "2022-06-12T19:37:03Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "AJR - World's Smallest Violin (Official Video)",
+        "description": "“WORLD’S SMALLEST VIOLIN” FROM OK ORCHESTRA OUT NOW: https://AJR.lnk.to/okorchestraID\n\nLyrics: \n\nMy grandpa fought in World War Two\nHe was such a noble dude\nI can’t even finish school\nMissed my mom and left too soon \nHis dad was a fireman \nWho fought fires so violent \nI think I bored my therapist \nWhile playing him my violin\nOh my god that‘s so insane\nOh my god that’s such a shame\nNext to them, my shit don’t feel so grand\nBut I can’t help myself from feeling bad\nI kinda feel like 2 things can be sad\nThe world’s smallest violin\nReally needs an audience\nSo if I do not find somebody soon\nI’ll blow up into smithereens \nAnd spew my tiny symphony\nJust let me play my violin for you\nMy grandpa fought in World War Two\nHe was such a noble dude\nMan I feel like such a fool\nI got so much left to prove\nAll my friends have vaping friends\nThey’re so good at making friends\nI’m so scared of caving in \nIs that entertaining yet?\nOh my god that‘s so insane\nOh my god that’s such a shame\nNext to them, my shit don’t feel so grand\nBut I can’t help myself from feeling bad\nI kinda feel like 2 things can be sad\nThe world’s smallest violin\nReally needs an audience\nSo if I do not find somebody soon\nI’ll blow up into smithereens \nAnd spew my tiny symphony\n\nJust let me play my violin for you\nSomewhere in the universe\nSomewhere someone’s got it worse\nWish that made it easier\nWish I didn’t feel the hurt\nThe world’s smallest violin\nReally needs an audience\nSo if I do not find somebody soon\nI’ll blow up into smithereens\nAnd spew my tiny symphony\nAll up and down a city street\nWhile tryna put my mind at ease\nLike finishing this melody\nThis feels like a necessity\nSo this could be the death of me\nOr maybe just a better me\nNow come in with the timpanis\nAnd take a shot of Hennessy\nI know I’m not there mentally\nBut you could be the remedy\nSo let me play my violin for you",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PEnJbjBuxnw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PEnJbjBuxnw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PEnJbjBuxnw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PEnJbjBuxnw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PEnJbjBuxnw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PEnJbjBuxnw"
+        },
+        "videoOwnerChannelTitle": "AJR",
+        "videoOwnerChannelId": "UCQ5w3fSomzziZfO7neK7eAg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nvomjBl_UUnHif54HKVaST8T-iU",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy5DQkEyNTY1OEEwQjgyNUU5",
+      "snippet": {
+        "publishedAt": "2022-05-06T04:10:43Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Charlie Puth - That's Hilarious [Official Video]",
+        "description": "New album 'CHARLIE' out October 7! Pre-save /pre-order: https://charlieputh.lnk.to/CHARLIEID\nListen to \"That's Hilarious\": https://charlieputh.lnk.to/ThatsHilariousID\nListen to \"Light Switch\": https://charlieputh.lnk.to/LightSwitchID\n\nText: (323) 524-9978\n\nDirected by Matthew Daniel Siskin\n\nSubscribe for more official content from Charlie Puth:\nhttps://Atlantic.lnk.to/CPsubscribeID\n\nFollow Charlie\nhttp://charlieputh.com \nhttp://twitter.com/charlieputh \nhttp://facebook.com/charlieputh \nhttp://instagram.com/charlieputh\nhttps://soundcloud.com/charlieputh\nhttps://www.tiktok.com/@charlieputh\nhttps://my.community.com/charlieputh\n\nLyrics: \nLook how all tables,\nLook how all the tables have turned,\nGuess you’re finally realizing how bad you messed it up\nGirl you’re only making,\nGirl you’re only making it worse,\nWhen you call like you always do when you want someone\n\nYou took away a year,\nof my fucking life and I can’t get it back no more\nSo when I see those tears,\nComing out your eyes I hope it’s me they're for\n\nYou didn’t love when you had me\nBut now you need me so badly\nYou can’t be serious\nThat’s hilarious\nThinking I would still want you\nAfter the things you put me through\nYea You’re delirious\nThat’s hilarious\n \nNow you put the blame in,\nNow you put the blame in reverse,\nTryina make me feel guilty for everything you’ve done\nYou’re another lesson,\nYou’re just another lesson I learned\nDon’t give your heart to a girl who still got a broken one\n\nYou took away a year,\nof my fucking life & I can’t get it back no more\nSo when I see those tears,\nComing out your eyes I hope it’s me they’re for \n\nYou didn’t love when you had me\nBut now you need me so badly\nYou can’t be serious\nThat’s hilarious\nThinking I would still want you\nAfter the things you put me through\nYea You’re delirious\nThat’s hilarious\nYou didn’t love when you had me\nBut now you need me so badly\nYou can’t be serious (you can’t be serious)\nThat’s hilarious (that’s hilarious)\nThinking I would still want you\nAfter the things you put me through\nYea You’re delirious (delirious)\nThat’s hilarious (that’s hilarious)\n\nThe official YouTube channel of Atlantic Records artist Charlie Puth. Subscribe for the latest music videos, performances, and more.\n\n#CharliePuth #ThatsHilarious",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nq3x1AkwgpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nq3x1AkwgpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nq3x1AkwgpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nq3x1AkwgpY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nq3x1AkwgpY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Nq3x1AkwgpY"
+        },
+        "videoOwnerChannelTitle": "Charlie Puth",
+        "videoOwnerChannelId": "UCwppdrjsBPAZg5_cUwQjfMQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WxMO89RUET-XrAwmB4lHz78LiMA",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy4yNkM4QUUzQkY2ODdDMzEw",
+      "snippet": {
+        "publishedAt": "2022-10-05T18:33:22Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Sam Smith, Kim Petras - Unholy (Official Music Video)",
+        "description": "The official 'Unholy' music video.\n\n'Gloria', the album - out on January 27th. \nPre-save/order here: http://samsmith.world/GloriaID\n\nSam Smith 'Unholy' featuring Kim Petras out now: http://samsmith.world/UnholyID\n\nDirected by Floria Sigismondi\n\nLabel: Capitol Records\nCommissioner: James Hackett\n\nProduction Company: Scheme Engine\nExecutive Producer: Jannie McInnes\nUK Production Company: Just Fred\nExecutive Producer: Alexa Haywood\nProducer: Fred Bonham Carter\nProducer: Maurizio Von Trapp\n\nDirector of Photography: Joel Honeywell\n\nChoreographer: (LA)HORDE - Marine Brutti, Jonathan Debrouwer, Arthur Harel\nChoreographer Assistant: Daniel Alwell\n\nProduction Manager: Amanda Tuckwell\nProduction Manager: Aidan Robert Brooks\nProduction Coordinator: Scout De Wynter\nProduction Assistant: Aleff Henrique, Simoes Correa\nCasting Company: LANE Casting London\nCasting Director: Hannah Ashby Ward\nLocation Manager: Adam Lancashire\n1st AD: Chris Kelly\n2nd AD: Lucy Kelly\n1st AC: Lami Okrekson\nSteadicam Op: Jayy Jaramillo Gomez\nKey Grip: Jac Hopkins\nGaffer: Tom Nowell\nSound Recordist: Edwin Weiss\n\nProduction Designer: Arthur De Borman\nArt Director: Anna Barnett   \nProp Buyer: Ella Schlesinger   \nSFX Supervisor: Mats Rivenes\n\nStylist: Lisa Jarvis\nWardrobe 1st Assistant: Daniel Gray\nSam Smith Stylist: Ben Reardon\nSam Smith Stylist Assistant: Sadie Davies\nSam Smith Hair & Makeup: Sienree Du\nKim Petras Make Up Artist: Anna-Maria Negri\nKim Petras Hair Stylist: Ilham Mestour\nMake Up Artist: Elizabeth Hsieh\nHair Stylist: Giovanni Iovino\nSam Smith BTS: Madison Phipps\n\nPost Production: Bonch\nEditor and Sound Design: Jarrett Fijal\nAssistant Editor: Martin Deen\nAssistant Editor: Samantha O'Brien\nSound Design Mix: Lawrence Rothman\n\nVFX Supervisor: Max Colt\nVFX: FRENDER\nRetouch: Digital Beauty Work\n\nColor: Company 3\nSenior Colorist: Stefan Sonnenfeld\nAdditional Colorist: Parker Jarvie\nSenior Producer, Color: Blake Rice\n\nCast: \nHusband: Henry Davis \nWife: Maren Bjorneseth\n\nDancers:\nDaniel Allwell\nAleshia Williams \nEmily Haygarth\nBABY\nJordan Boury\nMegan Charles\nNovaya Shey\nSamuel Mena Garcia\nPfion Vince\nJ’Adore La Vie \nSakeema\n\nBosses:\nGottmik\nViolet Chachki\n\nFeatured Cast:\nYuri Park\nNancy Violet Jolene\nBrett Tatham\nLouise Gibb\nNicholas Tredrea\nKitt Ibbott\nWilliam Darby\nLulu Kapansa\nArmando\nFern G\nEgo Valentino\nTreasure Iyamu\nDaragh Mccann\nLewis Walker\nJamie\nPaddy O’Brian\nAmani Hussain\nMiriam Veil\nMax The Tribrid\n\nSpecial Thanks:\n\nSam Smith Wardrobe:\nPrada, Stephen Jones, Ed Marler, \nOlivia Nutton, Kevin Geddes, Paul Rawson\n\nKim Petras Wardrobe:  \nGucci, Angus Cockram, George Oxby, \nSonia Trefilova, Grete Henriette, \nIlia's Little Shoe Box\n\nGotmik Wardrobe: \nJean Paul Gaultier, Richard Quinn \n \nViolet Chachki Wardrobe: \nFlávio Juán Núñez, Laurent TIJOU\n\nHusband Wardrobe:  \nMaison Margiela, Grenson\n\nWife Wardrobe: \nGucci, Christian Louboutin  \n\nTalent Wardrobe: \n000'M\n4Element.com\nBerthauss\nBordelle \nBrian de Carvalho\nBVS\nChristopher Reid \nChurch's\nCorsetorium\nChristian Louboutin \nDanshan \nDead Lotus Couture\nDreaming Eli\nElissa Poppy\nFetish Daddy \nFlávio Juán Núñez\nFleet Illya \nGeorge Oxby and Angus Cockram \nGermanier\nGrenson\nGraham Cruz \nGrete Henriette \nGucci\nHat'n'Spicy\nHouse of Harlot\nHouse of Law\nHugo Kreit \nJoheela \nJohn Paul Gaultier\nLaura Florenti\nLaurent Tijou\nLudovic de Saint Sernin\nMaddy Rara\nMithridate\nMonique Fei\nMugler\nNina Doroushi\nNoel Stewart \nOh Seong Seok\nPanconesi\nPaula Rowan\nPrangsta Costumiers\nRepetto \nRichard Anderson\nRichard Quinn\nSavannah Lingerie \nSonia Trefilova\nSorcha O'Raghallaigh\nUnderground \nVampire’s Wife\n\n#SamSmith #Unholy #KimPetras\n\nListen to Sam Smith’s Complete Collection here: http://samsmith.world/CatalogueID\n\nStay up to date with Sam Smith music, tours and exclusives here: http://samsmith.world/RegisterID\n\nTikTok https://www.tiktok.com/@samsmith\nInstagram http://instagram.com/samsmith\nTwitter http://twitter.com/samsmith\nFacebook http://facebook.com/samsmithworld\n\nMusic video by Sam Smith, Kim Petras performing Unholy. A Capitol Records UK / EMI recording; © 2022 Universal Music Operations Limited\n\nhttp://vevo.ly/tlRvy3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uq9gPaIzbe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uq9gPaIzbe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uq9gPaIzbe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uq9gPaIzbe8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Uq9gPaIzbe8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Uq9gPaIzbe8"
+        },
+        "videoOwnerChannelTitle": "SamSmithVEVO",
+        "videoOwnerChannelId": "UC3Pa0DVzVkqEN_CwsNMapqg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E4Wxv9YxduoG3K3MWbjjfb2Xn8A",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy5FQkVERUUyQTE1MDgwODZC",
+      "snippet": {
+        "publishedAt": "2021-12-08T10:49:45Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Benson Boone - Ghost Town (Official Music Video)",
+        "description": "Official Music Video for Benson Boone's \"Ghost Town\" - Listen now at https://BensonBoone.lnk.to/GhostTown\n\nFollow Benson:\n\nhttp://www.BensonBoone.com\nhttp://www.Instagram.com/BensonBoone\nhttps://www.tiktok.com/@bensonboone\n\n#bensonboone #ghosttown\n\nDirected by Matt Eastin & Ty Arnold\nEdited by Matt Eastin\n\nLYRICS\n\nYou fill me up till your empty,\n\nI took too much and you let me,\n\nwe’ve been down all these roads before,\n\nAnd what we found don’t live there anymore,\n\nIt’s dark,\n\nAnd it’s cold,\n\nIf my hand is not the one you’re meant to hold,\n\nMaybe you’d be happier with someone else,\n\nMaybe loving me is the reason you can’t love yourself,\n\nBefore I turn your heart into a ghost town,\n\nShow me everything we’ve built so I can tear it all down,\n\nYou know I’ll stay don’t you tempt me,\n\nBut all this weight is getting heavy,\n\nBeen holding up what wasn’t meant to stand,\n\nI turned this love into a waist-land,\n\nIt’s dark,\n\nit’s cold,\n\nIf my hand is not the one you’re meant to hold,\n\nMaybe you’d be happier with someone else,\n\nMaybe loving me is the reason you can’t love yourself,\n\nBefore I turn your heart into a ghost town,\n\nShow me everything we’ve built so I can tear it all down,\n\nThe streets are empty,\n\nWhere love once was but it’s faded away,\n\nThese broken memories,\n\nI’m left here alone and afraid to say,\n\nMaybe you’d be happier with someone else,\n\nOooooh,\n\nMaybe you’d be happier with someone else,\n\nMaybe loving me is the reason you can’t love yourself,\n\nBefore I turn your heart into a ghost town,\n\nShow me everything we’ve built so I can tear it all down,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/prYbXj3zPfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/prYbXj3zPfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/prYbXj3zPfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/prYbXj3zPfs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/prYbXj3zPfs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "prYbXj3zPfs"
+        },
+        "videoOwnerChannelTitle": "Benson Boone",
+        "videoOwnerChannelId": "UCvILah8hAWYhYOmAG3ZjvBA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tpNuw1W0Y4IlnGiSBk07q9xt3P0",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy45ODczREQ0NDczQjZDNTZC",
+      "snippet": {
+        "publishedAt": "2022-10-04T18:21:06Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "OneRepublic - I Ain’t Worried (From “Top Gun: Maverick”) [Official Music Video]",
+        "description": "Stream OneRepublic’s “I Ain’t Worried” from ‘Top Gun: Maverick’: \nhttp://OneRepublic.lnk.to/iaintworried\n\nListen to “Top Gun: Maverick (Music From The Motion Picture)”, soundtrack out now: \nhttp://TopGunMaverick.lnk.to/Soundtrack\n\nListen to OneRepublic:\nSpotify: http://smarturl.it/1RSpotify\nApple Music: https://apple.co/3B4u43p\n\nShop OneRepublic: http://smarturl.it/1RShop\nSign up for email updates: http://smarturl.it/1REmail\nCatch OneRepublic on tour: https://www.onerepublic.com/tour\n\nFollow OneRepublic:\nInstagram: https://www.instagram.com/onerepublic\nTikTok: https://www.tiktok.com/@onerepublic\nFacebook: https://www.facebook.com/OneRepublic\nTwitter: https://twitter.com/OneRepublic\n\nFollow Top Gun:\nInstagram: https://www.instagram.com/topgunmovie/\nTwitter: https://twitter.com/topgunmovie\nFacebook: https://www.facebook.com/TopGunMovie/\nWebsite: https://www.topgunmovie.com/\n\n“I Ain’t Worried” Lyrics:\ni don’t know what you’ve been told\nbut time is running out no need to take it slow\nim stepping to you toe to toe\ni should be scared honey maybe so\n\nbut i aint worried bout it right now (right now)\nkeeping dreams alive, 1999, heroes\ni aint worried bout it right now (right now)\nswimmin in the floods, dancing on the clouds, below\n\ni aint worried bout it\ni aint worried bout it\n\nI don’t know what you’ve been told\nbut time is running out so spend it like its gold\nim living like I’m 9 zeros\ngot no regrets even when I’m broke\nyeah\nim at my best when i got something\nim wanting to steal\nway too busy for them problems\nand problems to feel (yeah yeah)\nno stressing just obsessin with sealin the deal\nill take it in and let it go\n\nbut i aint worried bout it right now (right now)\nkeeping dreams alive, 1999, heroes\ni aint worried bout it right now (right now)\nswimmin in the floods, dancing on the clouds, below\n\ni aint worried bout it\ni aint worried bout it\n\noooooooooo\ni aint worried\noooooooo\noh no no\n\ni aint worried bout it right now (right now)\nkeeping dreams alive, 1999, heroes\ni aint worried bout it right now (right now)\nswimmin in the floods, dancing on the clouds, below\ni aint worried bout it\ni aint worried bout it\ni aint worried bout it\n\n#OneRepublic #IAintWorried #TopGunMaverick\n\nMusic video by OneRepublic performing I Ain't Worried. © 2022 Mosley Music/Interscope Records\n\nhttp://vevo.ly/0zOiFO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mNEUkkoUoIA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mNEUkkoUoIA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mNEUkkoUoIA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mNEUkkoUoIA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mNEUkkoUoIA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mNEUkkoUoIA"
+        },
+        "videoOwnerChannelTitle": "OneRepublicVEVO",
+        "videoOwnerChannelId": "UCQ5kHOKpF3-1_UCKaqXARRg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SW1vSfH0mi4Xp5pCGDmMwSUkM7A",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy44MkNDRjE1MDM2RkEwOTA3",
+      "snippet": {
+        "publishedAt": "2022-11-25T19:36:23Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "d4vd - Romantic Homicide (Official Music Video)",
+        "description": "\"Romantic Homicide\" available now: https://d4vd.lnk.to/RomanticHomicide\n\nFollow d4vd:\nMailing List - https://d4vd.lnk.to/mailinglist\nDiscord - https://discord.gg/d4vd\nInstagram - https://www.instagram.com/d4vddd/\nTwitter - https://twitter.com/d4vddd\nTikTok - https://www.tiktok.com/@d4vdd\nFacebook - http://facebook.com/d4vdd\nSoundcloud - https://soundcloud.com/d4vddd\nSpotify - https://spoti.fi/3BabOIK\nApple Music - https://apple.co/3wV1ou8\nOfficial Website - http://d4vd.io\nSubscribe on YT - https://www.youtube.com/channel/UC98WsFnuhfS3uT8PwdYCjbw?sub_confirmation=1\n\nDiscover more from @d4vd  - https://www.youtube.com/watch?v=eKL3TceSxvk&list=PLmzsqSxbqJEv9s75Uy0LjxUz2YUk_9IRy \n\nDirected by Tommy Kiljoy\nhttps://instagram.com/tommykiljoy\n\n\"Romantic Homicide\" Lyrics\nI'm scared\nIt feels like you don't care\nEnlighten me, my dear\nWhy am I still here, oh\nI don't mean to be complacent\nWith the decision you made, but why?\nIn the back of my mind\nYou died\nAnd I didn't even cry, no\nNot a single tear\nAnd I'm sick of waiting patiently\nFor someone that won't even arrive\nIn the back of my mind\nI killed you\nAnd I didn't even regret it\nI can't believe I said it\nBut it's true\nI hate you\n\n#d4vd #RomanticHomicide",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eKL3TceSxvk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eKL3TceSxvk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eKL3TceSxvk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eKL3TceSxvk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eKL3TceSxvk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eKL3TceSxvk"
+        },
+        "videoOwnerChannelTitle": "d4vd",
+        "videoOwnerChannelId": "UC98WsFnuhfS3uT8PwdYCjbw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b34_CZah6jTRkbbK-Q6JCXBhDQA",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy40QTA3NDY0RjFFOTM3RTg4",
+      "snippet": {
+        "publishedAt": "2022-04-18T06:05:44Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends)",
+        "description": "Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends)\n\nListen: \nhttps://ImagineDragons.lnk.to/Enemy\n\nConnect with Imagine Dragons:\nhttps://linktr.ee/ImagineDragons\n\nShop Imagine Dragons: http://smarturl.it/ImagineDragonsShop\nSign up for email updates: http://smarturl.it/ID_Email\nListen to Imagine Dragons on Spotify: http://smarturl.it/ID_Discography\nCatch Imagine Dragons on tour: http://imaginedragonsmusic.com/tour\n\nFollow Imagine Dragons:\nFacebook: https://www.facebook.com/ImagineDragons\nTwitter: https://twitter.com/Imaginedragons\nInstagram: https://www.instagram.com/imaginedragons\nYouTube: https://youtube.com/imaginedragons\nTikTok: https://tiktok.com/@imaginedragons\n\nFollow JID:\nhttp://instagram.com/jidsv \nhttp://twitter.com/jidsv \nhttp://facebook.com/jidsv \nhttp://jidsv.com\n\n#ImagineDragons #JID #Enemy #Arcane #LeagueofLegends\n\nMusic video by Imagine Dragons, JID performing Enemy (from the series Arcane League of Legends). © 2021 KIDinaKORNER/Interscope Records\n\nhttp://vevo.ly/bcE2JW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D9G1VOjN_84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D9G1VOjN_84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D9G1VOjN_84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D9G1VOjN_84/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D9G1VOjN_84/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D9G1VOjN_84"
+        },
+        "videoOwnerChannelTitle": "ImagineDragonsVEVO",
+        "videoOwnerChannelId": "UCpx_k19S2vUutWUUM9qmXEg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1Z1vzsWnbFqOwm4fR3YEJFB84Tw",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy4xNEZBN0VENkNGMzBFMkRB",
+      "snippet": {
+        "publishedAt": "2022-12-23T05:18:42Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Morray - Da Rant [Official Music Video]",
+        "description": "Morray - Da Rant [Official Music Video]\nListen: https://morray.lnk.to/DaRant\nApple Music: https://morray.lnk.to/DaRant/applemusic\nSpotify: https://morray.lnk.to/DaRant/spotify\nAmazon: https://morray.lnk.to/DaRant/amazonmusic\n\nSTREET SERMONS Out Now: https://morray.lnk.to/StreetSermons\nIG: @morrayda1 Subscribe to Morray https://tinyurl.com/yy8fzunh\n\nFollow Morray (@morrayda1)\nhttp://facebook.com/morrayda1\nhttp://soundcloud.com/morrayda1\nhttp://instagram.com/morrayda1\nhttp://twitter.com/morrayda1\n\n#Morray #DaRant #StreetSermons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3tIF_ed3A64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3tIF_ed3A64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3tIF_ed3A64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3tIF_ed3A64/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3tIF_ed3A64/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3tIF_ed3A64"
+        },
+        "videoOwnerChannelTitle": "Morray",
+        "videoOwnerChannelId": "UCyVppwD0G-t1KQM9zWn_oOA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8EmW3CkHlqF-l5qfiepP9glSJ1U",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy5FM0UyMEUwMzk3ODdBODBF",
+      "snippet": {
+        "publishedAt": "2022-11-19T20:31:16Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Taylor Swift - Midnight Rain (Official Lyric Video)",
+        "description": "Listen to “ Midnight Rain e” by Taylor Swift from the album ‘Midnights’.\n\nBuy/Download/Stream ‘Midnights’: https://taylor.lnk.to/taylorswiftmidnights \n\n►Subscribe to Taylor Swift on YouTube: https://ts.lnk.to/subscribe \n \n►Shop Merch: http://taylorswift.lnk.to/store\n\n►Follow Taylor Swift Online:\nTikTok: http://tiktok.com/@taylornation\nInstagram: http://instagram.com/taylorswift  \nTwitter: http://twitter.com/taylorswift13  \nSnapchat: http://snapchat.com/add/taylorswift\nFacebook: http://facebook.com/taylorswift  \nTumblr: http://taylorswift.tumblr.com  \nWebsite: http://www.taylorswift.com  \n\n►Follow Taylor Nation Online\nTikTok: http://tiktok.com/@taylornation\nInstagram: http://instagram.com/taylornation  \nTwitter: http://twitter.com/taylornation13\nTumblr: http://taylornation.tumblr.com  \n\n►Lyrics:\nWritten by Taylor Swift and Jack Antonoff\n\nHe wanted it comfortable\nI wanted that pain\nHe wanted a bride\nI was making my own name\nChasing that fame\nHe stayed the same\nAll of me changed\nLike midnight …\n\nMy town was a wasteland\nFull of cages, full of fences\nPageant queens and big pretenders\nBut for some it was paradise\nMy boy was a montage\nA slow motion, love potion\nJumping off things in the ocean\nI broke his heart ‘cause he was nice\n\nHe was sunshine\nI was midnight rain\nHe wanted it comfortable\nI wanted that pain\nHe wanted a bride\nI was making my own name\nChasing that fame\nHe stayed the same\nAll of me changed\nLike midnight …\n\nIt came like a postcard\nPicture perfect shiny family\nHoliday peppermint candy\nBut for him it’s every day\nSo I peered through a window\nA deep portal, time travel\nAll the love we unravel\nAnd the life I gave away\n\nCause he was sunshine \nI was midnight rain\nHe wanted it comfortable\nI wanted that pain\nHe wanted a bride\nI was making my own name\nChasing that fame\nHe stayed the same\nAll of me changed\nLike midnight\n\n\nHe wanted it comfortable\nI wanted that pain\nHe wanted a bride\nI was making my own name\nChasing that fame\nHe stayed the same\nAll of me changed\nLike midnight\n\nI guess sometimes we all get\njust what we wanted, just what we wanted\nAnd he never thinks of me\nExcept when I’m on TV\nI guess sometimes we all get \nsome kind of haunted, some kind of haunted\nAnd I never think of him\nExcept on midnights like this …\n\n#taylorswift #midnights #MidnightRain\n\n\n\nMusic video by Taylor Swift performing Midnight Rain (Lyric Video). © 2022 Taylor Swift",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Odh9ddPUkEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Odh9ddPUkEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Odh9ddPUkEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Odh9ddPUkEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Odh9ddPUkEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Odh9ddPUkEY"
+        },
+        "videoOwnerChannelTitle": "TaylorSwiftVEVO",
+        "videoOwnerChannelId": "UCANLZYMidaCbLQFWXBC95Jg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jMX_31CgsKOgbr6tTK_vdp0wosA",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy5BRTFGQzJDNEVFMzlGN0NE",
+      "snippet": {
+        "publishedAt": "2020-12-11T10:49:47Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Black Eyed Peas, Shakira - GIRL LIKE ME (Official Music Video)",
+        "description": "\"Translation\" available at: https://Black-Eyed-Peas.lnk.to/Translation\n\"GIRL LIKE ME\" Official Audio: https://youtu.be/rGhvqK9eLBg\n\nFollow Black Eyed Peas online\nFacebook: https://www.facebook.com/blackeyedpeas\nTwitter: https://twitter.com/bep \nInstagram: https://www.instagram.com/bep\nMore Videos: https://www.youtube.com/playlist?list=PLgZwaNdNnwLpNLAN8Kh2DoWsD1ViSlNDN\n\nFollow Shakira online\nInstagram: http://www.instagram.com/shakira \nFacebook: http://www.facebook.com/shakira \nTwitter: http://www.twitter.com/shakira \nTik Tok: https://www.tiktok.com/@shakira\n\nLyrics:\nAyy, yeah\nAyy, ayy\n\nSo they tell me that you lookin' for a girl like me\nSo they tell me that you lookin' for a girl like me\nAh-ah-ah, you're lookin' for\nA girl like me\n\nLa-La-Latinas (Eh)\nI want a girl like Shakira, eh\nEsa latina está rica (Ah)\nI want a familia chica que sepa vivir y que viva la vida\nI need a bien bonita (Wuh)\nElegante señorita (Wuh)\nGirl, I want you and I need ya\nAll of my life, yup, baby, let's team up\nI want a girl that shine like glitter (Ping)\nA girl that don't need no filter\nThe real for real\nA girl that's a natural killa (Prr)\nI wanna girl that's a heater (Hot)\nCaliente, off the meter (Hot)\nYo quiero, mira, yo quiero\nUna chica que no me diga mentiras\n\nSo they tell me that you lookin' for a girl like me\nSo they tell me that you lookin' for a girl like me\nAh-ah-ah, you're lookin' for\nA girl like me\nOye, mami, estoy buscando una chica así\nOye, mami, estoy buscando una chica así\nAh-ah-ah, you're lookin' for\nA girl like me\n\nMe llevas en tu mente\nSoy adictiva como el azúcar\nMe buscas permanentemente\n¿No ves que solo quiero jugar?\n\nLatinas, latinas\nLa-La-Latinas, la-la-latinas\n\nSacúdelo como, Shaki\nBaby, drop it low on top me\nElectric field, so shock me\nYour hips don't lie, they rock me\nBaby, come get me, you got me\nOye, mami, ven aquí\nYou know I'm liking what I see\nMuévelo, muévelo, muévelo así\nYo quiero una mujer\nUna princesa no tiene pa' ver\nEsa chick with no boundaries like that fue what ev'\nBuena en la cama, she good in the bed\nA girl that be using her head (Her head)\nTo use the cabeza, the best\nI want a girl who's a diva\nNo quiero otra, sí, eso es\n\nSo they tell me that you lookin' for a girl like me\nSo they tell me that you lookin' for a girl like me\nAh-ah-ah, you're lookin' for\nA girl like me\n\nWhen I come it shines like glitter\nBaby, you know I need no filter\nFor real, I'm real\nYou know I'm real\nLike that my lips are so glossy\nLike how my neck is so bossy\nBaby, if you do it my way\nJust for the hell of it, I'll let you love me\n\nLatinas, latinas\nSha-Sha-Shakira, Sha-Sha-Shakira\n\nI like latinas\nOnes who look like Selena\nShake your bunda like Anitta \nMorena estás más fina\nI like dominicanas\nBoricuas and colombianas\nIn East L.A. I like the chicans\nAnd they want a piece of the big manzana, eh \n\nSo they tell me that you lookin' for a girl like me\nOye, mami, estoy buscando una chica así\nAh-ah-ah, you're lookin' for\nA girl like me\n\nMe llevas en tu mente\nSoy adictiva como el azúcar\nMe buscas permanentemente\n¿No ves que solo quiero jugar?\n\n(C) 2020 BEP Music, LLC, under exclusive license to Epic Records, a division of Sony Music Entertainment\n\n#BlackEyedPeas #Shakira #GIRLLIKEME",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vMLk_T0PPbk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vMLk_T0PPbk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vMLk_T0PPbk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vMLk_T0PPbk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vMLk_T0PPbk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vMLk_T0PPbk"
+        },
+        "videoOwnerChannelTitle": "BlackEyedPeasVEVO",
+        "videoOwnerChannelId": "UCrwmu-gceGOmtZeuTsn7DlQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qsIii_Y2zXFoMqR5D-pYLwdV9ng",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy5GNzIwRjU0REU5MDZFMzMx",
+      "snippet": {
+        "publishedAt": "2022-10-22T18:12:40Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Doja Cat - Streets (Official Video)",
+        "description": "Doja Cat // Streets (Official Video)\nHot Pink // Out Now: https://smarturl.it/xHotPink \n\nSubscribe to Doja Cat's Official YouTube Channel: https://smarturl.it/DojaYTSubcribe \n\n“Streets” (Official Video)\nStarring: Doja Cat & Kofi Siriboe (@kofisiriboe)\n#DirectedbyChristianBreslauer\n-\nDirector: @christhedirector\nExecutive Producer: @christhedirector @miketheproducer\nCommissioner: @samhoustonishere\nProducer: @miketheproducer\nLine Producer: @nicky_bonez\nDirector of Photography: @jchema\nProduction Company: @luckybastards_inc @londonalley\n\nFollow Doja Cat:\nhttps://www.facebook.com/DojaCat\nhttps://www.instagram.com/dojacat/\nhttp://www.dojacat.com/\n\n#dojacat #streets #hotpink\n\nhttp://vevo.ly/3HJiqd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jJdlgKzVsnI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jJdlgKzVsnI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jJdlgKzVsnI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jJdlgKzVsnI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jJdlgKzVsnI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jJdlgKzVsnI"
+        },
+        "videoOwnerChannelTitle": "dojacatVEVO",
+        "videoOwnerChannelId": "UCpTaAz_BxtkUB1qc8JTU_7g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0A-reA_uxBvRyLHfuxIwvQZibUE",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy43ODRCRDZGQ0RDMzJCQjhB",
+      "snippet": {
+        "publishedAt": "2022-12-13T23:01:07Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Sub Urban - UH OH! (feat. BENEE) [Official Music Video]",
+        "description": "Buy tickets for my first headlining tour: https://www.thatsuburban.com/\n\nListen to the new album 'HIVE' out now: https://suburban.lnk.to/hive\nStream \"UH OH! (feat. BENEE)\": https://suburban.lnk.to/uhoh\nUse \"UH OH! (feat. BENEE)\" on TikTok: https://www.tiktok.com/music/UH-OH-7084537825202276354\n\n\nFollow Sub Urban:\nhttps://www.instagram.com/suburban/\nhttps://www.tiktok.com/@suburban\nhttps://twitter.com/thatSubUrban\nhttps://www.facebook.com/thatSubUrban/\n\nFollow BENEE \nhttps://www.tiktok.com/@beneemusic \nhttps://www.instagram.com/beneemusic\nhttps://www.facebook.com/BENEE \nhttps://twitter.com/BENEEMUSIC\n\nCredits:\nStory & Creative Direction by Sub Urban\nDirected by Andrew Donoho \nProduction Company - Obsidian \nExecutive Producer - Doug Klinger \nHead of Production - Anna Heinrich \nProducer - Ian Blair \nDirector’s Rep - Doug Klinger at Reprobates \nProduction Manager - Kristen Brancaccio \nProduction Coordinator - John Wayne Leingang \nDirector of Photography - Kristian Zuniga \nAssistant Director - Michael Estrella \n2nd Assistant Director - Mike Roque \n1st AC - Jackie Vresics\n2nd AC - Aaron Brenner\nSteadicam - Loren Hamilton\nGaffer - Drew Valenti\nACLT - Dominic D'astice\nHyphenate - David Veerman \nKey Grip - Ed Barraza\nBest Grip - Jason Webster\nGrip - Gaither Narron\n \nProduction Designer - Danny Erb\nArt Director - Hunter Kist\nSet Decorator - Michael Coursey\nLead Man - Jordan Pelzl\nLead Carpenter - David Ochmanek\nSet Dresser - Abe Turner\nSet Dresser - Eric Moore\nSet Dresser - Christina Skilbred\n \nStylist - Lisa Madonna\nWardrobe Assistant - Chaun Loose\n \nSFX Makeup - Sasha Glasser \nArtist Makeup - Chelsea Delfino\nHMU Cast - Viv Somers\n \nCast - \nMom  - Jeanne Carr\nDad - Troy Dillinger\nSister - Paige Westbrook\nLittle Brother - Abel Lysenko\nPost Producer - Callie Schuttera \nEditors - Sebastian Zotoff & Erin McCaffrey at Rock Paper Scissors\nEdit Producer - Whit Johnson at Rock Paper Scissors\n \nColor - Matt Osborne at Company 3 @matt_osborne_color @company_3\nColor Grade Producer - Blake Rice and Jake Rioux at Company 3 @blakerice\n \nVFX Supervisor - Andrew Donoho\nCompositor - Andres Jaramillo at Straynge\nBackground Repair - Kuldeep Singh at Purplepatch VFX\nSound Design - Christian Stropko\n \nStudio Teacher - Caroline Lund\nCOVID Officer - Fiona Gaye at Elite Medics\nTalent Safety - Richard Dorton\n \nPA - Robert Gillard\nPA - Ozzy Vidrio\nPA - Evan Donoho\n \nBenne Australia B Unit Credits - \nSupervising Producer - Callie Schuttera \nProducer, Wardrobe & Production Design - Jeremy Vallence \nDirector of Photography - Matt Jasper\nBenee HMU - Rose Letho \n \nFilmed at the Jasper Picture Company, Melbourne\n \nSub Urban Artist MGMT - Stefan Max and Liam McCarthy\n \nLabel - Warner Records\nCommissioner - Devin Sarno & Norman Wonderly\n \nBenee Artist MGMT - Campbell Smith & Poppy Tohill (CRS Management)\n \nShot on Kodak 35mm\nFilm Processing - Fotokem\n\nLyrics:\nUh oh\nUh oh\nUh oh\nYou made a mistake\nUh oh\nUh oh\nTell me things that can’t be true\n\nYour slacks are on fire\nI’m fanning the flames\nLike a vampire\nStood out in broad day\nShoulda been wiser\nWhile pickin’ out\nWhat you were gonna say\noh\n\nFool me once\nThat’s one too many\nBetter luck next time you’ve met me\nWhere’s the dunce\nWho caught you meddling\n\nTurn around\nUh oh\n\nUh oh\nUh oh\nUh oh\nYou made a mistake\nUh oh\nUh oh\nTell me things that can’t be true\n\nYou’re sweating this time \nI’m reading your eyes \nYou’re being called out \n‘Cause you slipped your mouth \nYour face has turned pale \nGone faint, you’re not well \nWhile you were distracted \nI cast a spell \n\nUh oh better run away now \nUh oh you’ve made a mistake aw \nUh oh got nothing else to say to you\nUh oh\n\nUh oh\nUh oh\nUh oh\nYou made a mistake\nUh oh\nUh oh\nTell me things that can’t be true\n\nForgive this wed intermission\nTragically I’m not the victim here\nIf only I fell for your fiction\nTell me things that can’t be true\n\n\n\n#SubUrban #BENEE #UHOH",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wZTIdnooV-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wZTIdnooV-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wZTIdnooV-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wZTIdnooV-s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wZTIdnooV-s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wZTIdnooV-s"
+        },
+        "videoOwnerChannelTitle": "Sub Urban",
+        "videoOwnerChannelId": "UCqAil6_A1dWHdFXzOwVLqlg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zck-t99rlktBVpRJ80RuLCWdfvE",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy5DOUM2QzRFQzg5QTYzQUMx",
+      "snippet": {
+        "publishedAt": "2020-10-14T01:25:34Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Dua Lipa - Levitating Featuring DaBaby (Official Music Video)",
+        "description": "The official music video for Dua Lipa - Levitating featuring @BabyJesus704 \n\nTaken from her second studio album 'Future Nostalgia' released in 2020, which featured the hit singles 'Don't Start Now', 'Physical', 'Break My Heart', 'Hallucinate' & 'Levitating'\n\nGet the album Future Nostalgia : https://dualipa.co/futurenostalgia\n\nSubscribe to the Dua Lipa channel for all the best and latest official music videos, behind the scenes and live performances. \nhttps://www.youtube.com/channel/UC-J-KZfRV8c13fOCkhXdLiQ?sub_confirmation=1\n\nSee more official videos from Dua Lipa here:\nhttps://www.youtube.com/playlist?list=PLNrotoZZ8BaoXT_LJuwEyESQlctWNDCwD\n\nListen to more from the album 'Future Nostalgia' :\nhttps://www.youtube.com/playlist?list=PLNrotoZZ8BaouNABcO_A9Xkn_Nkz0PT11\n\nFollow Dua Lipa:\nInstagram:  https://dualipa.co/instagram\nFacebook: http://dualipa.co/facebook\nTikTok: https://www.tiktok.com/@dualipaofficial\nTwitter: http://dualipa.co/twitter\nYouTube: https://dualipa.co/youtube\n\nAbout Dua Lipa:\nBorn and raised in London to Kosovar-Albanian parents Dua Lipa signed to Warner Records in 2015, releasing her self titled debut in 2017 which featured the hit singles, 'Be The One', 'IDGAF', 'Hotter Than Hell' & her first UK #1 hit 'New Rules'. \n\nCritical success soon followed as Dua Lipa picked up Brit Awards for 'Best Female Solo Artist' and 'Best British Breakthrough Act' as well as Grammy Awards for 'Best New Artist' and 'Best Dance Recording' for the track 'Electricity' in collaboration with Silk City.\n\nHer second internationally acclaimed studio album 'Future Nostalgia' was released in 2020 and included the hit singles 'Don't Start Now, 'Break My Heart', 'Hallucinate' and 'Levitating', with the remix album 'Club Future Nostalgia' following shortly after featuring guest appearances from 'Blackpink', 'Missy Elliott', 'Madonna' and 'Gwen Stefani'. \n\n#DuaLipa #Levitating #DaBaby #FutureNostalgia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TUVcZfQe-Kw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TUVcZfQe-Kw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TUVcZfQe-Kw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TUVcZfQe-Kw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TUVcZfQe-Kw"
+        },
+        "videoOwnerChannelTitle": "Dua Lipa",
+        "videoOwnerChannelId": "UC-J-KZfRV8c13fOCkhXdLiQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OfSQfJzFkbJ1yZzLDKbqvCkbfh0",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy4yRDE3QURDMzU0Nzc0MTcw",
+      "snippet": {
+        "publishedAt": "2022-11-28T19:14:11Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Adele - I Drink Wine (Official Video)",
+        "description": "Official Video for \"I Drink Wine\" by Adele.\nShop the \"Adele\" collection here: http://shop.adele.com\n \nListen to \"30\" here: https://www.adele.com\n \nFollow Adele:\nFacebook - https://www.facebook.com/Adele \nTwitter - https://twitter.com/Adele \nInstagram - http://instagram.com/Adele\n \nLyrics\nHow can one become so bounded by choices that somebody else makes?\nHow come we’ve both become a version of a person we don’t even like? \nWe’re in love with the world but the world just wants to bring us down\nBy putting ideas in our heads that corrupt our hearts somehow \nWhen I was a child every single thing could blow my mind\nSoaking it all up for fun but now I only soak up wine\nThey say to play hard you work hard find balance in the sacrifice \nYet I don’t know anybody who’s truly satisfied\n \nYou better believe I’m trying to keep climbing\nBut the higher we climb feels like we’re both none the wiser\n \nSo I hope I learn to get over myself \nStop trying to be somebody else\nSo we can love each other for free\nEverybody wants something, you just want me\n \nWhy am I obsessing about the things I can’t control?\nWhy am I seeking approval from people I don’t even know? \nIn these crazy times I hope to find something I can cling on to \nCause I need some substance in my life\nSomething real, something that feels true\n \nYou better believe for you I’ve cried high tides\nCause I want you so bad but you can’t fight fire with fire \n \nListen I know how low I can go \nI give as good as I get\nYou get the brunt of it all cause you’re all I’ve got left\nOh I hope in time we both will find peace of mind\nSometimes the road less travelled is a road best left behind \n \n#Adele #IDrinkWine #30",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jDvYDzFOK9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jDvYDzFOK9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jDvYDzFOK9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jDvYDzFOK9A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jDvYDzFOK9A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jDvYDzFOK9A"
+        },
+        "videoOwnerChannelTitle": "AdeleVEVO",
+        "videoOwnerChannelId": "UComP_epzeKzvBX156r6pm1Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E-CWOh6jOjDNTbDRjIsNUME7ABI",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy5CQUU2Qzk5ODBGMkNDRUVE",
+      "snippet": {
+        "publishedAt": "2022-05-24T04:44:50Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Elley Duhé - MIDDLE OF THE NIGHT (Official Video)",
+        "description": "\"PIECES\" Available Now\nDownload/Stream: http://ElleyDuhe.lnk.to/Pieces\n\nSubscribe for more official content from Elley Duhé: https://ElleyDuhe.lnk.to/YouTube \n\ndon't forget to follow me:) \nInstagram - https://www.instagram.com/elleyduhe \nTikTok - https://www.tiktok.com/@elleyduhe\nTwitter - https://twitter.com/elleyduhe\n\nVideo Credits:\nDirector - Loris Russier \nExecutive Producer - Nuer Taqa \nProduction Company - Radiance Pictures \nProduction Manager - Autumn Maschi \nProduction Coordinator - Losa Meru \n1st AD - Marianne Amelinckx \nCinematographer - David Okolo \n1st AC - Dave Castro \n2nd AC - Manchin Hsiung \nJib Op - Babak Mansouri \nSteadicam Op - Garet Jatsek \nGaffer - Mike Williamson \nBBE - Trevor Dunnigan \nKey Grip - Edward Rodriguez \nBBG - Valfrie Tabian Jr \nBTS photographer - Letxia Cordova \nMakeup - Kayli Rachelle \nHair - Rachel Lita \nStylist - Lisa Li \nStylist Assistant - Genesis Duran \nTruck PA - Jeff Chavez \nTruck PA - Sebastian Romero \nSet PA- Memetjan Semet \nSet PA - Ellis Moye \n\nA NOT FIT FOR SOCIETY PRODUCTION\n\nLYRICS:\nI summoned you\nPlease come to me \nDon’t bury thoughts that you really want \nI fill you up \nDrink from my cup \nWithin me lies what you really want \nCome lay me down \nCause ya know this \nCause ya know the sound \n\nIn the middle of the night \nIn the middle of the night \nJust call my name \nI’m yours to tame \nIn the middle of the night \nIn the middle of the night \nI’m wide awake \nI crave your taste all night long \nTill morning comes \nI’m getting what is mine \nYou gon' get yours oh no ooo\nIn the middle of the night \nIn the middle of the night ohh woah \n\nThese burnin flames \nThese crashin' waves\nwash over me like a hurricane \nI captivate you’re hypnotized \nfeel powerful but it’s me again yea \ncome lay me down\nCause I know this \nCause I know this sound \n\nIn the middle of the night \nIn the middle of the night \nJust call my name \nI’m yours to tame \nIn the middle of the night \nIn the middle of the night \nI’m wide awake \nI crave your taste all night long \nTill morning comes \nI’m getting what is mine \nYou gon' get yours oh no ooo\nIn the middle of the night \nIn the middle of the night oh woah \n\nJust call on me \nJust call my name \nYa call on meeeeee   \n\nIn the middle of the night \nIn the middle of the night \nJust call my name \nI’m yours to tame \nIn the middle of the night \nIn the middle of the night \nI’m wide awake \nI crave your taste all night long \nTill morning comes \nI’m getting what is mine \nYou gon get yours oh no ooo\nIn the middle of the night \nIn the middle of the night oh oh oh oh \n\n#ElleyDuhe #MIDDLEOFTHENIGHT #MusicVideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oSHzUD-uqKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oSHzUD-uqKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oSHzUD-uqKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oSHzUD-uqKY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oSHzUD-uqKY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oSHzUD-uqKY"
+        },
+        "videoOwnerChannelTitle": "Elley Duhé",
+        "videoOwnerChannelId": "UCbNNpH4gB4Nu-imqMDysWiw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Zh7N9wNl1KBwZ_ukDrUxxYbCCUk",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy5BODAzM0YxNDY5MDJCOTVG",
+      "snippet": {
+        "publishedAt": "2022-11-01T18:53:15Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Rema, Selena Gomez - Calm Down (Official Music Video)",
+        "description": "Listen to Rema - Calm Down (with Selena Gomez)\nhttps://rema.lnk.to/CalmDownwithSelenaGomezID\n\nStream/Download: RAVE & ROSES https://rema.lnk.to/RaveandRosesID\n\nGet Rave & Roses World Tour Tickets: https://heisrema.com/pages/tour 🎫\nShop Limited Rave & Roses Merch: https://heisrema.com/pages/merch\n\n#rema #selenagomez #calmdown #raveandroses\n\nMusic video by Rema, Selena Gomez performing Calm Down. © 2022 Mavin Records / Jonzing World\n\nhttp://vevo.ly/UFpqmQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WcIcVapfqXw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WcIcVapfqXw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WcIcVapfqXw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WcIcVapfqXw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WcIcVapfqXw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WcIcVapfqXw"
+        },
+        "videoOwnerChannelTitle": "SelenaGomezVEVO",
+        "videoOwnerChannelId": "UCjK8ORC71kwyj1DWFwril_A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wFM_uWoJ_LKvNvnMiRajeL4aLJg",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy44RDg1QUJGQzQxOTY0NjdB",
+      "snippet": {
+        "publishedAt": "2022-12-08T20:08:50Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Conan Gray - Memories (Official Music Video)",
+        "description": "MEMORIES. SONG AND VIDEO OUT NOW. Presave Superache 🌹 https://conangray.lnk.to/superache \n \nConnect with Conan:\nInstagram: https://www.instagram.com/conangray   \nTwitter: https://twitter.com/conangray    \nFacebook: https://www.facebook.com/conangrayoffical\nTikTok: https://www.tiktok.com/@conangray \nOfficial Site: http://www.conangray.com \n \nLyrics:\n \nIt’s been a couple months\nThat’s just about enough time\nFor me to stop crying\nWhen i look at all the pictures\nNow I kinda smile\nI haven't felt that in a while…\n \nIt's late, I hear the doorbell ringing\nAnd it’s pouring\nI open up that door\nSee your brown eyes at the entrance\nYou just wanna talk, \nAnd I can't turn away a wet dog\n \nBut please don’t ruin this for me\nPlease don't make it harder than it already is\nI’m trying to get over this.\n \nI wish that you would stay in my memories\nBut you show up today just to ruin things\nI wanna put you in the past \nCuz I'm traumatized\nBut you’re not letting me do that\nCuz tonight\nYou’re all drunk in my kitchen\nCurled in the fetal position\nToo busy playing the victim \nTo be listening to me when I say \nI wish that you would stay in my memories\nIn my memories\nStay in my memories\n \nNow I can't say goodbye\nIf you stay here the whole night\nYou see, \nIt’s hard to find an end\nTo something that you keep beginning\nOver and over again\nI promise that the ending always stays the same.\n \nSo there's no good reason \nIn make believing\nThat we could ever exist again\nI can't be your friend\nI can't be your lover\nI can't be the reason we hold back each other\nFrom falling in love, with somebody other than me.\n \nI wish that you would stay in my memories\nBut you show up today just to ruin things\nI wanna put you in the past \nCuz I'm traumatized\nBut you’re not letting me do that\nCuz tonight\nYou’re all drunk in my kitchen\nCurled in the fetal position\nToo busy playing the victim \nTo be listening to me when I say \nI wish that you would stay in my memories\nIn my memories\nStay in my memories\n \nSince you came\nI guess I’ll let you stay\nFor as long as it takes\nTo grab your books and your coat\nAnd that one good cologne\nThat you bought when we were fighting\nCuz it’s still on my clothes\nEverything that I own\nAnd it makes me feel like crying\nI was barely just surviving. \n \nI wish that you would stay in my memories\nBut you show up today just to ruin things\nI wanna put you in the past cuz I'm traumatized\nBut you’re not letting me do that\nCuz tonight\nYou’re all drunk in my kitchen\nCurled in the fetal position\nToo busy playing the victim \nTo be listening to me\nWhen I say \nI wish that you would \nStay in my memories\nIn my memories\nStay in my memories…\n(sigh…)\n \n#ConanGray #Memories\n\nMusic video by Conan Gray performing Memories. © 2022 Republic Records, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2lSyHZLzNYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2lSyHZLzNYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2lSyHZLzNYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2lSyHZLzNYA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2lSyHZLzNYA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2lSyHZLzNYA"
+        },
+        "videoOwnerChannelTitle": "ConanGrayVEVO",
+        "videoOwnerChannelId": "UCeJmCJLZWX3L9D47vuWcE8A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KJRCjRxp9CgIJUCUb54AGXa-JE4",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy5CQjlGRjMxQkRFQUY1RDEy",
+      "snippet": {
+        "publishedAt": "2022-12-08T20:08:51Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Dean Lewis - How Do I Say Goodbye (Official Video)",
+        "description": "Official music video for 'How Do I Say Goodbye' by Dean Lewis. \nStream 'How Do I Say Goodbye' now: https://DeanLewis.lnk.to/HowDoISayGoodbyeID \nListen to more: https://DeanLewis.lnk.to/MusicID \nSubscribe to my YouTube: https://DeanLewis.lnk.to/YouTubeID \nSign-up to my newsletter: https://DeanLewis.lnk.to/SignUpID \nFollow my Complete Playlist on Spotify: https://DeanLewis.lnk.to/Complete-PlaylistID \n\nDirector: Sean Loaney\nDirector of Photography: Sean Loaney\nEditor: Sean Loaney\nProducer: Mick Jones (Filthy Films)\nProducer: Adeliz Calderon\nGaffer: Jarett Jarvis\nGrip: Mikale Youravich\n1st Assistant Camera: Gabriel Colvin\n\nFollow me - \nWebsite: https://DeanLewis.lnk.to/MusicID/WebsiteGeneral\nInstagram: https://DeanLewis.lnk.to/MusicID/Instagram\nFacebook: https://DeanLewis.lnk.to/MusicID/Facebook\nTik Tok: http://DeanLewis.lnk.to/MusicID/TikTok\nTwitter: https://DeanLewis.lnk.to/MusicID/Twitter\nSpotify: https://DeanLewis.lnk.to/MusicID/Spotify\nApple Music: https://DeanLewis.lnk.to/MusicID/AppleMusic\nAmazon Music: https://DeanLewis.lnk.to/MusicID/AmazonMusic\nYouTube Music: https://DeanLewis.lnk.to/MusicID/YouTubeMusic\n\n#DeanLewis #HowDoISayGoodbye \n\nLYRICS\n \nEarly morning \nThere’s a message on my phone \nIt’s my mother saying, “Darling, please come home” \nI fear the worst \nBut how could you leave us all behind \nThere’s so much to say but there's so little time \n\nSo how do I say goodbye \nTo someone who’s been with me for my whole damn life \nYou gave me my name and the colour of your eyes\nI see your face when I look at mine \nSo how do I, how do I, how do I say goodbye? \n\nWhen I couldn’t, you always saw the best in me \nRight or wrong you were always on my side \nBut I’m scared of what life without you’s like \nAnd I saw the way she looked into your eyes \nAnd I promise if you go, I will make sure she’s alright \n\nSo how do I say goodbye \nTo someone who’s been with me for my whole damn life \nYou gave me my name and the colour of your eyes \nI see your face when I look at mine \nSo how do I, how do I, how do I say goodbye? \n\nAnd there’s no way you could ever let me down \nGonna steal some time and start again \nYou’ll always be my closest friend \nAnd someday we are gonna make it out \nJust hold the light, just hold the light \n\nSo how do I say goodbye \nTo someone who’s been with me for my whole damn life \nYou gave me my name and the colour of your eyes \nI see your face when I look at mine \nSo how do I, how do I, how do I say goodbye? \nSo how do I, how do I, how do I say goodbye?\n\nMusic video by Dean Lewis performing How Do I Say Goodbye. An Island Records Australia release; © 2022 Universal Music Australia Pty Ltd.\n\nhttp://vevo.ly/sEnrTR",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QCtEe-zsCtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QCtEe-zsCtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QCtEe-zsCtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QCtEe-zsCtQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QCtEe-zsCtQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QCtEe-zsCtQ"
+        },
+        "videoOwnerChannelTitle": "DeanLewisVEVO",
+        "videoOwnerChannelId": "UCCsEkPFtMYnfQoTenSsur-w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t7ecvJh_VETpU-R9EENp2VHZ8AY",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy43MjAzNkIzNjVGNkQ2NkUx",
+      "snippet": {
+        "publishedAt": "2022-11-17T19:34:56Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Taylor Swift - Bejeweled (Official Music Video)",
+        "description": "Official music video for “Bejeweled” by Taylor Swift from the album ‘Midnights’.\n\nBuy/Download/Stream ‘Midnights’: https://taylor.lnk.to/taylorswiftmidnights \n\n►Subscribe to Taylor Swift on YouTube: https://ts.lnk.to/subscribe \n \n►Shop Merch: http://taylorswift.lnk.to/store\n\n►Follow Taylor Swift Online:\nTikTok: http://tiktok.com/@taylorswift\nInstagram: http://instagram.com/taylorswift  \nTwitter: http://twitter.com/taylorswift13  \nSnapchat: http://snapchat.com/add/taylorswift\nFacebook: http://facebook.com/taylorswift  \nTumblr: http://taylorswift.tumblr.com  \nWebsite: http://www.taylorswift.com  \n\n►Follow Taylor Nation Online\nTikTok: http://tiktok.com/@taylornation\nInstagram: http://instagram.com/taylornation  \nTwitter: http://twitter.com/taylornation13\nTumblr: http://taylornation.tumblr.com  \n\n►Lyrics:\nWritten by Taylor Swift and Jack Antonoff\n\nBaby love, I think I’ve been a little too kind\nDidn’t notice you walking all over my peace of mind\nIn the shoes I gave you as a present\nPutting someone first only works\nWhen you’re in their top 5\nAnd by the way\nI’m going out tonight\n\nBest believe I’m still bejeweled\nWhen I walk in the room\nI can still make the whole place shimmer\nAnd when I meet the band\nThey ask, “Do you have a man?”\nI could still say, “I don’t remember”\nFamiliarity breeds contempt\nDon’t put me in the basement\nWhen I want the penthouse of your heart\nDiamonds in my eyes\nI polish up real\nI polish up real nice\nNICE!\n\nBaby boy, I think I’ve been too good of a girl \nToo good of a girl\nDid all the extra credit then got graded on a curve\nI think it’s time to teach some lessons\nI made you my world\nHave you heard\nI can reclaim the land\nAnd I miss you\nBut I miss sparkling …\n\nChorus\n\nSapphire tears on my face\nSadness became my whole sky\nBut some guy said my aura’s moonstone\nJust ‘cause he was high\nAnd we’re dancing all night\nAnd you can try\nTo change my mind\nBut you might have to wait in line\nWhat’s a girl gonna do?\nA diamond’s gotta shine\n\nChorus\nAnd we’re dancing all night\nAnd you can try\nTo change my mind\nBut you might have to wait in line\nWhat’s a girl gonna do?\nWhat’s a girl gonna do? \nI polish up nice\nBest believe I’m still bejeweled\nWhen I walk in the room\nI can still make the whole place shimmer\n\nDirector: Taylor Swift\nDirector of Photography: Rina Yang\nProducer: Sara D'Alessio\nEditor: Chancler Haynes\nProduction Designer: Ethan Tobman\n1st AD: Anthony Dimino\nVisual Effects: Parliament\nProduction Companies: Taylor Swift Productions & Revolution Pictures\n\n#taylorswift #midnights #bejeweled \n\nMusic video by Taylor Swift performing Bejeweled. © 2022 Taylor Swift",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b7QlX3yR2xs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b7QlX3yR2xs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b7QlX3yR2xs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b7QlX3yR2xs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b7QlX3yR2xs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b7QlX3yR2xs"
+        },
+        "videoOwnerChannelTitle": "TaylorSwiftVEVO",
+        "videoOwnerChannelId": "UCANLZYMidaCbLQFWXBC95Jg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F5URas9y0r7l2JRCw83NgKoBI-g",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy5FMDM4MDJGNkQ0NTgxNjY3",
+      "snippet": {
+        "publishedAt": "2022-11-28T19:14:11Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Harry Styles - Music For a Sushi Restaurant (Official Video)",
+        "description": "Official Video for \"Music For A Sushi Restaurant\" by Harry Styles.\nHarry's new album \"Harry's House\" out now. Listen here:  https://hstyles.lnk.to/HarrysHouse\n \nAmazon Music: https://hstyles.lnk.to/HarrysHouse/AmazonMusic\nApple Music: https://hstyles.lnk.to/HarrysHouse/AppleMusic\nDeezer: https://hstyles.lnk.to/HarrysHouse/Deezer\niTunes: https://hstyles.lnk.to/HarrysHouse/iTunes\nPandora: https://hstyles.lnk.to/HarrysHouse/Pandora\nSoundcloud: https://hstyles.lnk.to/HarrysHouse/Soundcloud\nSpotify: https://hstyles.lnk.to/HarrysHouse/Spotify\nYouTube Music: https://hstyles.lnk.to/HarrysHouse/YouTubeMusic\n \nFollow Harry Styles:\nFacebook: https://HarryStyles.lnk.to/followFI\nInstagram: https://HarryStyles.lnk.to/followII\nTwitter: https://HarryStyles.lnk.to/followTI\nWebsite: https://HarryStyles.lnk.to/followWI\nSpotify: https://HarryStyles.lnk.to/followSI\nYouTube: https://HarryStyles.lnk.to/subscribeYD\n\n \nLyrics\n(Mine, Mine, Mine, Mine, Mine, Mine)\n \nGreen eyes, fried rice, \nI could cook an egg on you,  \nLate night, game time, \nCoffee on the stove yeah,\nYou’re sweet ice cream, \nBut you could use a flake or two,\nBlue bubblegum twisted round your tongue,\n \nI don’t want you to get lost,\nI don’t want you to go broke,\nI want you,\n \nIt’s cause I love you babe, \nIn every kind of way,\nJust a little taste,\nYou know I love you baby, \n \n(Mine)\n \n“Excuse me, a green tea?”,\nMusic for a sushi restaurant,\nFrom ice on rice,\nScuba duba dubub boo,\nMusic for a sushi restaurant, \nMusic for a sushi restaurant,\nMusic for whatever you want,\nScuba duba dubub boo,\n \nI’m not going to get lost,\nI’m not going to go broke,\nStaying cool,\n \nYou know I love you babe, \n \nIf the stars were edible,\nAnd our hearts were never full,\nCould we live with just a taste?, \nJust a taste,\n \nIt’s cause I love you babe, \nIn every kind of way,\nJust a little taste,\nYou know I love you baby,\n\nCredits\nWritten & Directed by: Aube Perrie\nProducer: Rik Green / Josh Sondock / Bryan Younce\nProduction Co: Pulse Films\nExecutive Producer: Rik Green, Davud Karbassioun, James Sorton\n\nCreative Director: Molly Hawkins\n\nProduction Service: LFR Productions\nExecutive Producer LFR: Luigi Rossi & Francesco Rizzo\n\nDOP: Christopher Ripley\nProduction Designer: Patience Harding\nCasting Director: Kate Antognini\nPhotographer: Adam Powell\nSpecial Makeup Effects Designer & Prosthetic Makeup Lead: Chelsea Delfino\n\nArtist Skin: Dotti\nArtist Hair: Matt Mullhall\nArtist Stylist: Harry Lambert\nArtist Stylist Assistant: Ryan Wohlgemut\n\nStylist: Lindsey Hartman\nHair: Zuleika Acosta\nMake-up: Ashley Di Sarro\nLocation Manager: Jennifer Quesenbery\n\nProduction Supervisor: Brooke Eliot\nCoordinator: Debby Tickenoff\n1st Assistant Director: Donna Imbarrato\n1st Assistant Director: Abbey Hansen\n2nd Assistant Director: Maria Villena\nArt Coordinator: Caroline Jackson\n\nB-Cam Operator: Doug Durant\nSteadicam Op: Kyle Fasanella\n1st AC: Nick Wiesner\n2nd AC: Justin Mulroy\nLoader: Laura Eraud\nCamera PA: Raheem Stanley\n\nGaffer: Omar Nasr\nBB Electric: Agustina Biasutto\nBoard Operator: Brandon Woodruff\nElectric: Alex Blum\nDriver/Swing: Matt Lundy\nKey Grip: Keve Huggins\nBB Grip: Patrick Graham\nGrip: Dwane Harris\nGrip: Mithin Thomas\n\nLead: Erick Benavides\nSet Decorator: Abby McCreary\nSet Decorator: Phil McGill\nSet Decorator: Lissette Emma\nProp Master: Zach Adams\n\nProsthetic Makeup Artist: Sasha Glasser\n\nTail produced by: Jason Hamer’s Hamer FX\nSculptor: Mario Tores & Greg Polutanovich\nMold makers: Kyle Konkle, Eric Mullins, Sean Norcross & Emily Faunce\nFabrication: Reggie Rizzo\nPainter: Eric Harris\n\nShrimp mask fabrication: Santino Ferrese\n \nOCP Talent\nOwners: David Arrow & Amber Paul\nCook: Dante Fiallo\nHandyman: Tony Wave\n“Can I touch your tail” Guy: Zeus Rocan Court \nPrawn, Trombone: Jessica Stanley\nPrawn, Trumpet: Sophie Manoloff\nPrawn, Saxophone: Reveka Pasternak\n\nBackground Casting: Background Inc.\n \nLocation: Sugar Hill Supper Club\n \nEditors: Gwen Ghelid & Aube Perrie\n\nColour: Tom Mangham\n2D Lead: Toby Aldridge\nPost: Black Kite Studios\nPost Producer: Jade Denne\nSound design & mix: Mark Hellaby\nSound House: 750MPH\nProducer: Olivia Ray\n \nStills Artist: James Siewart\nDirectors Rep: HANDS\n \n \n#HarryStyles #HarrysHouse #MusicForASushiRestaurant",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CiwMDFh_Rog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CiwMDFh_Rog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CiwMDFh_Rog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CiwMDFh_Rog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CiwMDFh_Rog/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CiwMDFh_Rog"
+        },
+        "videoOwnerChannelTitle": "HarryStylesVEVO",
+        "videoOwnerChannelId": "UCbOCbp5gXL8jigIBZLqMPrw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TOWlW8SE1QG_d4YI5r1q7ktRNw8",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy5FNEFCRDc5RDNCRkM1QTQ0",
+      "snippet": {
+        "publishedAt": "2022-09-04T19:21:23Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]",
+        "description": "The official music video for Bruno Mars, Anderson .Paak, Silk Sonic's new single \"Leave the Door Open\"\n\n‘An Evening with Silk Sonic’ available now: https://SilkSonic.lnk.to/AEWSSID\n\nDirected by Bruno Mars and Florent Dechard \nPhil Tayag - creative consultant\n\n\n\n🔔 Subscribe for the latest official music videos, live performances, lyric videos, official audio, and more: https://Atlantic.lnk.to/BMsubscribe\n \n🎵 Listen to the Best of Bruno Mars playlist ➤ https://bit.ly/3bbslw8\u200b \n🎵 Watch Bruno Mars’ Official Music Videos ➤ https://bit.ly/2U7I3mi\u200b \n\nGet Bruno Mars merchandise! https://brunom.rs/brunomarsstore \n\nConnect with Bruno: \nhttp://www.brunomars.com\u200b \nhttp://www.instagram.com/brunomars\u200b \nhttp://www.twitter.com/brunomars\u200b \nhttp://www.facebook.com/brunomars \n\nConnect with Anderson .Paak.: \nhttps://www.facebook.com/AndersonPaak \nhttps://www.instagram.com/anderson._paak/ \nhttps://twitter.com/AndersonPaak \n\nConnect with Silk Sonic: \nhttps://SilkSonic.lnk.to/Instagram \nhttps://SilkSonic.lnk.to/Twitter \nhttps://SilkSonic.lnk.to/Facebook \nhttps://SilkSonic.lnk.to/Spotify \nhttps://SilkSonic.lnk.to/AppleMusic \nhttps://SilkSonic.lnk.to/TikTok \n\nLyrics: \nSay baby, say baby, say baby\n\nWhat you doin \n\n(what you doin)\n\n\nWhere you at\n\n(where you at)\n\n\nOh you got plans  \n\n(you got plans)\n\n\nDon’t say that       \n\n(shut yo trap)\n\n\nI’m sippin wine     \n\n(sip sip)\n\n\nIn a robe               \n\n(drip drip)\n\n\nI look too good    \n\n(look too good)\n\n\nTo be alone         \n\n(wooohooo)\n\n\nMy house clean  \n\n(house clean)\n\n \nMy pool warm   \n\n(pool warm)\n\n \nJust shaved        \n\n(smooth like a new born)\n\n \nWe should be dancing, romancing\n\nIn the east wing and the west wing\n\nOf this mansion, what’s happenin\n\n \n\nI aint playin no games\n\nEvery word that I say \n\nIs coming straight from the heart\n\n(so if you tryna lay in these arms)\n\n \n\nImma leave the door open\n\n(imma leave the door open)\n\nImma leave the door open girl\n\n(Imma leave the door open, hopin)\n\n \nThat you feel the way I feel\n\nAnd you want me like I want you tonight baby\n\n(tell me that you’re coming through) \n\n\n \nYou’re so sweet \n\n(so sweet)\n\n \nSo tight\n\n(so tight)\n\n \nI won’t bite\n\n(ahh ahh)\n\n \nUnless you like\n\n(unless you like)\n\n \nIf you smoke\n\n(what you smoke)\n\n \n\nI got that haze\n\n(purple haze)\n\n \nAnd if you’re hungry girl I got filets\n\n(woohooo)\n\n \nOoh baby don’t keep me \n\n(waiting)\n\nThere’s so much love we could be making\n\n(Shamone)\n\nI’m talking kissing, Cuddling\n\nRose petals in the bathtub\n\nGirl lets jump in, It’s bubblin\n\n\nI aint playin no games\n\nEvery word that I say \n\nIs coming straight from the heart\n\nSo if you tryna lay in these arms\n\n( if you tryna lay in these arms)\n\n\n\nImma leave the door open\n\n(imma leave the door open)\n\nImma leave the door open girl\n\n(Imma leave the door open, hopin)\n\n\nThat you feel the way I feel\n\nAnd you want me like I want you tonight baby\n\n(tell me that you’re coming through)\n\n \nLa la laaa la la la laaa \n\n(I need you baby)\n\n \nLa la laaa la la la laaa\n\n(I gotta see you baby)\n\n\nLa la laaa la la la laaa \n\n(Girl I’m tryna give you this)\n\n(aaaaahhhhhhhhhh)\n\n\nImma leave my door open, baby\n\n(imma leave the door open)\n\nImma leave, imma leave my door open girl\n\n(Imma leave the door open, hopin)\n\nAnd I’m hopin\n\n\n\nHopin that you feel the way I feel\n\nAnd you want me like I want you tonight baby\n\n(tell me that you’re coming through)\n\n \n\nLa la laaa la la la laaa\n\nTell me\n\n(Tell me that you’re coming through)\n\n \n\nWoo, woo-woo, woo, woo-woo,woo\n\nWoo-woo\n\nWoo, woo-woo, woo, woo-woo,woo\n\nWoo-woo\n\n \n\nLa la laaa la la la laaa\n\n(Tell me that you’re coming through)\n\n \n\nGirl, I’m here just waiting for you\n\nCome on over, I’ll adore you\n\n(I gotta know)\n\n(La la laaa la la la laaa)\n\nI’m waiting, waiting, waiting for you\n\n \n\n(Tell me that you’re coming through)\n\nGirl, I’m here just waiting for you\n\nCome on over, I’ll adore you\n\n\nThe official YouTube channel of Atlantic Records artist Bruno Mars. 11x GRAMMY Award winner and 27x GRAMMY Award nominee Bruno Mars is a celebrated singer, songwriter, producer, and musician with iconic hits like \"The Lazy Song\", \"That's What I Like\", \"Just The Way You Are\", \"24K Magic\", \"Locked Out Of Heaven\", and \"When I Was Your Man\". His legendary body of work also includes blockbuster albums such as Doo-Wops & Hooligans, Unorthodox Jukebox, and 24K Magic, as well as era-defining collaborations like \"Uptown Funk\" with Mark Ronson, \"Finesse\" with Cardi B, and \"Nothin' On You\" with B.o.B. Forever classic, yet supremely innovative, Bruno continues to redefine music, style, and popular culture, pushing the boundaries of pop, R&B, funk, soul, hip-hop, and dance, and remains as influential as ever.\n\n#BrunoMars #AndersonPaak #SilkSonic #LeaveTheDoorOpen",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/adLGHcj_fmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/adLGHcj_fmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/adLGHcj_fmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/adLGHcj_fmA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/adLGHcj_fmA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "adLGHcj_fmA"
+        },
+        "videoOwnerChannelTitle": "Bruno Mars",
+        "videoOwnerChannelId": "UCoUM-UJ7rirJYP8CQ0EIaHA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2jD0cTPU8D8Wr8s39o5TZdPR9-s",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy40N0Y0MkIyRjk2MkVBNkE3",
+      "snippet": {
+        "publishedAt": "2021-08-03T05:56:45Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "The Weeknd - Blinding Lights (Official Video)",
+        "description": "Official music video for The Weeknd \"Blinding Lights\" - available everywhere now: http://theweeknd.co/blindinglightsYD\n\n►Subscribe to The Weeknd on YouTube: http://theweeknd.co/subscribeYD \n\n►Get exclusive merch: https://shop.theweeknd.com/\n\n►Follow The Weeknd:\nhttps://twitter.com/theweeknd\nhttps://www.facebook.com/theweeknd\nhttps://www.instagram.com/theweeknd\nhttps://www.theweeknd.com\nSubscribe to YouTube Music: http://theweeknd.co/blindinglightsYD/youtubemusic \n\nDirector: Anton Tammi\n\nProduction Company: Somesuch \nExecutive Producer: Saskia Whinney\nProducer: Sarah Park\n\nDirector of Photography: Oliver Millar\n2nd Unit DP: Devin “Daddy” Karringten\nSteadicam Op: Niels Lindelien\nGaffer: Nizar Najm\nKey Grip: Marlow Nunez\nProduction Designer: Adam William Wilson\n\n1st AD: Kenneth Taylor\n\nEditor: Janne Vartia & Tim Montana\nPost Production Supervisor: Alec Ernest\nVFX: Mathematic\nColorist: Nicke Jacobsson\nSound Designer: Akseli Soini\n3D: Oscar Böckerman\nTitle Design: Aleksi Tammi\n\n\n►\"Blinding Lights\" Lyrics:\n\nYeah\nI been tryna call\nI been on my own for long enough\nMaybe you can show me how to love, maybe\nI'm going through withdrawals\nYou don't even have to do too much\nYou can turn me on with just a touch, baby\nI look around and Sin City's cold and empty (oh)\nNo one's around to judge me (oh)\nI can't see clearly when you're gone\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch\nI said, ooh, I'm drowning in the night\nOh, when I'm like this, you're the one I trust\nHey, hey, hey\nI'm running out of time\n'Cause I can see the sun light up the sky\nSo I hit the road in overdrive, baby\nOh, the city's cold and empty (oh)\nNo one's around to judge me (oh)\nI can't see clearly when you're gone\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch\nI said, ooh, I'm drowning in the night\nOh, when I'm like this, you're the one I trust\nI'm just walking by to let you know (by to let you know)\nI can never say it on the phone (say it on the phone)\nWill never let you go this time (ooh)\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch\nHey, hey, hey\nHey, hey, hey\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch\n\n#TheWeeknd #BlindingLights\n\n\nMusic video by The Weeknd performing Blinding Lights. © 2020 The Weeknd XO, Inc., manufactured and marketed by Republic Records, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4NRXx6U8ABQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4NRXx6U8ABQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4NRXx6U8ABQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4NRXx6U8ABQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4NRXx6U8ABQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4NRXx6U8ABQ"
+        },
+        "videoOwnerChannelTitle": "TheWeekndVEVO",
+        "videoOwnerChannelId": "UCF_fDSgPpBQuh1MsUTgIARQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CF9ww3NQZt7GbtnqOtLMyga_UWA",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy5EREJGNDZBQjUyRDVDNzA2",
+      "snippet": {
+        "publishedAt": "2022-08-22T17:32:39Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Fireboy DML & Ed Sheeran - Peru (Official Video)",
+        "description": "Listen to the single \"Peru\". Out 12/23!\nStream: https://music.empi.re/perufireanded\nPeru 7\" Exclusive Edition: https://www.hhv.de/shop/de/artikel/fireboy-dml-peru-feat-ed-sheeran-hhv-exclusive-transparent-orange-vinyl-edition-944348\n\nhttps://www.fnac.com/a17365616/Fireboy-DML-Peru-Edition-Limitee-Exclusivite-Fnac-Vinyle-Vert-Transparent-Vinyle-album#omnsearchpos=1\n\nFireboy DML Concert  @ London OVO Arena \nSunday, 13th November \nBUY TICKETS: Fireboyconcert.com\n\nPeru \nFireboy DML & Ed Sheeran\n\nOmoge no be so \nGirl you wan capture my soul \nOmoge no be so \nMake me wan wombolombo \n \nPeru para \nPeru Peru para\nI’m loo\nEven Peru don dey para \n\nTonight in jozi, I’m in jozi \nMo n korin funwon won jo si \nI’m not playing with you, I’m not joking \nMy third album is loading \nMi o kin fagbo but I’m on molly \nI’m on duty, but I’m on lowkey \nThey wan do me, they wan do mi \nThey wan do me gan, they wan do mi \n\nWon ni won wa mi, woni wo n wa mi \nI’m in San Francisco jamming \nWon ni won wa mi woni won wa mi \nI just flew in from Miami\n\nPeru para \nPeru Peru para\nI’m loo\nEven Peru don dey para\n\nPour out the bottle I want a leveller \nWhen I’m with you I never enough\nSlow whine I’m not in a rush\nI can hear music when you’re here\nTonight we rolling, party til closing \nSince I put the ring on her finger it’s still frozen \nLove in slow motion,\nI wanna feel you over me yeah\nSomething magic in your eyes (yeah)\nGirl I love the way you ride it \nAnd it happens every time you arrive, that rights\nGirl I want you in my life (yeah)\nIf there’s a heaven then it’s right here \nI will never leave your side, stay tonight \nWhen ya wanna see me, when you wanna see me\nI’m in West London this evening\nGiving me feelings, no I’m not leaving\nUntil I fly LA next weekend\nPeru, nah, girl I’d rather go find somewhere quiet \nYou'll glow, and I'll get lost here in your eyes\n\nOmoge no be so\nGirl you just capture my soul\nOmoge no be so\nMake me wanna just take you home\n\nPeru para \nPeru Peru para\nI’m loo\nEven Peru don dey para\n\nPeru para \nPeru Peru para\nI’m loo\nEven Peru don dey para\n\nPeru para \nPeru Peru para\nI’m loo\nEven Peru don dey para\n\n#FireboyDML #EdSheeran #peru \n\n\nOfficial Video by Fireboy DML & Ed Sheeran - Peru © 2021 YBNL Nation / EMPIRE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pekzpzNCNDQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pekzpzNCNDQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pekzpzNCNDQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pekzpzNCNDQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pekzpzNCNDQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pekzpzNCNDQ"
+        },
+        "videoOwnerChannelTitle": "Fireboy DML",
+        "videoOwnerChannelId": "UCvrQdOvBRW-ycBQ32o1BCQw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "shdUlRIv5MhvEDgGM1KwLT_eY6w",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy5DODdENEY0QjA3OUFBNzFG",
+      "snippet": {
+        "publishedAt": "2022-11-29T18:38:10Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "JVKE - golden hour (official music video)",
+        "description": "Official Music Video for \"golden hour\" byJVKE\n\nSTREAM \"golden hour\": https://jvke.ffm.to/goldenhour\n\n*NEW ALBUM* this is what ____ feels like, out now: https://jvke.ffm.to/whatblankfeelslike\n\nSUBSCRIBE: https://www.youtube.com/channel/UCSOfUqPoqpp5aWDDnAyv94g?sub_confirmation=1\n\nFOLLOW ME ON INSTAGRAM @ITSJVKE: https://www.instagram.com/itsjvke\u200b\n\nFOLLOW ME ON TIKTOK @JVKE: https://www.tiktok.com/@jvke\u200b\n\nFOLLOW ME ON TWITTER @JVKESONGS: https://twitter.com/jvkesongs\u200b\n\nSNAP ME: https://www.snapchat.com/add/imjakela\u200b...\n\n*NEW* MERCH: http://itsjvke.com/#shop\u200b\n\nDirector: Gus Black\nExecutive Producer: Jagger Corcione\nProducer: Zena Khafagy\nProduction Manager: Kevin Douglas\nDP: David Merino\n1st AD: Deighton Mckoy\n1st AC: Kyle Isler\nGaffer: Nate Airey\nKey Grip: Chandler Joseph Bado\nSwing: Jess Zambrano\nMUA: Amrita Mehta\nGroomer: Tatiana Mendez\nPA: Sabrina Alvarez\nPA: Daniel Figueroa\nEditor: Gus Black\nProd Co: 5 Towns Media House\nVideo Commissioner: Bianca Bhagat @ AWAL\nVP, Marketing: Justin Macchio @ AWAL\nLabel: AWAL\nManagement: Ethan Curtis, Aton Ben-Horin @ Plush Management \nDirectors Representative:  Kelly Norris Sarno @ Agency Arts\n\n\"golden hour\" by JVKE\n\nIt was just 2 lovers, \nSittin in the car \nListening to Blonde\nFallin for eachother\npink & orange skies,\nFeelin super childish\nNo donald glover \nMissed call from my mother\nLike Where u at tonight\nGot no alibi\nI was all alone\n\nWith the love of my life \nShes got glitter for skin\nMy Radiant beam in the night\nI don't need no light\n\nTo see you shine\nIt's your golden hour\nYou slow down time\nIn your golden hour\n\nwe were just two lovers\nFeet up on the dash\nDriving nowhere fast \nBurnin through the summer\nRadio on blast\nmake the moment last\nShe got solar power\nMinutes feel like hours\nShe knew she was the baddest\nCan u even imagine \nfallin like I did\n\n\nWith the love of my life \nShe's got glow on her face\nA glorious look in her eyes\nMy angel of light\nI was all alone with the love of my life\nShe's got glitter for skin\nMy Radiant beam in the night\nI don’t need no light\n\n#JVKE #goldenhour #officialvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PEM0Vs8jf1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PEM0Vs8jf1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PEM0Vs8jf1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PEM0Vs8jf1w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PEM0Vs8jf1w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PEM0Vs8jf1w"
+        },
+        "videoOwnerChannelTitle": "JVKE",
+        "videoOwnerChannelId": "UCSOfUqPoqpp5aWDDnAyv94g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_6ww52vKchJaHyaSNAWpD4nbHg8",
+      "id": "UEx1VXJva29WU3hsY0NoazV2X253YXNRenRBMmUxQ1JVQy4wMUQzQzEzMzg1OUZEQzFF",
+      "snippet": {
+        "publishedAt": "2022-06-30T19:40:58Z",
+        "channelId": "UCXTz2YeL7qAtgW6YdvTXb-Q",
+        "title": "Black Eyed Peas, Shakira, David Guetta - DON'T YOU WORRY (Official Music Video)",
+        "description": "Black Eyed Peas, Shakira & David Guetta - DON'T YOU WORRY (Official Music Video)\n\n\"DON'T YOU WORRY\" available at: https://Black-Eyed-Peas.lnk.to/DONTYOUWORRY \n\nFollow Black Eyed Peas online\nFacebook: https://www.facebook.com/blackeyedpeas\nTwitter: https://twitter.com/bep \nInstagram: https://www.instagram.com/BlackEyedPeas\nMore Videos: https://www.youtube.com/playlist?list=PLgZwaNdNnwLpNLAN8Kh2DoWsD1ViSlNDN\n\n(C) 2022 BEP Music, LLC, under exclusive license to Epic Records, a division of Sony Music Entertainment\n\n#BlackEyedPeas #Shakira #DavidGuetta",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/me19SUmWu2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/me19SUmWu2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/me19SUmWu2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/me19SUmWu2s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/me19SUmWu2s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Urban Songs",
+        "playlistId": "PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "me19SUmWu2s"
+        },
+        "videoOwnerChannelTitle": "BlackEyedPeasVEVO",
+        "videoOwnerChannelId": "UCrwmu-gceGOmtZeuTsn7DlQ"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 125,
+    "resultsPerPage": 25
+  }
+}
