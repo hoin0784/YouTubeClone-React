@@ -79,7 +79,7 @@ export default class Youtube {
       .then((res) => res.data.items)
       .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
-  // search로 바꾸기
+  // search로 바꾸기..
   // Movies로 바꾸기
   async Movies() {
     return this.apiClient
