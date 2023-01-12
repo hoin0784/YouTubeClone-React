@@ -2,8 +2,6 @@ import React from 'react';
 import { useQuery } from '@tanstack/react-query';
 import { useYoutubeApi } from '../../../context/YoutubeApiContext';
 import VideoCard from '../../VideoCard/VideoCard';
-import FakeYoutubeClient from '../../../api/FakeYoutubeClient';
-import YoutubeClient from '../../../api/youtubeClient';
 
 export default function Sports() {
   const { youtube } = useYoutubeApi();

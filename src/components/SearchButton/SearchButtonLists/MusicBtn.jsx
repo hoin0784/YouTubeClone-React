@@ -1,13 +1,9 @@
 import React from 'react';
-import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import VideoCard from '../../VideoCard/VideoCard';
 import { useYoutubeApi } from '../../../context/YoutubeApiContext';
-import FakeYoutubeClient from '../../../api/FakeYoutubeClient';
-
 
 export default function MusicBtn() {
-  const { keyword } = useParams();
   const { youtube } = useYoutubeApi();
 
   const { isLoading, error, data: videos, }

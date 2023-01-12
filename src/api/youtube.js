@@ -2,11 +2,36 @@ export default class Youtube {
   constructor(apiClient) {
     this.apiClient = apiClient;
   }
-
+  // search completed
   async search(keyword) {
     return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
   }
 
+  async channelImageURL(id){
+    return this.apiClient
+    .channels({
+      params: {
+        part: 'snippet', id
+      },
+    })
+    .then((res)=>res.data.items[0].snippet.thumbnails.default.url);
+  }
+
+  async relatedVideos(id){
+    return this.apiClient
+    .search({
+      params:{
+        part:'snippet',
+        maxResults:25,
+        type:'video',
+        relatedToVideoId: id,
+      },
+    })
+    .then((res) => res.data.items)
+      .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
+  }
+
+  // keyword search completed
   async #searchByKeyword(keyword) {
     return this.apiClient
       .search({
@@ -20,7 +45,8 @@ export default class Youtube {
       .then((res) => res.data.items)
       .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
-
+  
+  // Most popular completed
   async #mostPopular() {
     return this.apiClient
       .videos({
@@ -33,24 +59,28 @@ export default class Youtube {
       .then((res) => res.data.items);
   }
 
-  // Need to change
-
+  // Music completed
+  // If you want to use mock data,
+  // then use .music instead of .search(Real Youtube data)
   async Music() {
     return this.apiClient
       .music({
         params: {
-          playlistId: 'PLuUrokoVSxlcChk5v_nwasQztA2e1CRUC',
           part: 'snippet',
           maxResults: 25,
+          q: 'top hits 2023 best songs ',
+          type: 'video',
         },
       })
       .then((res) => res.data.items)
   }
-  // News는 search
-  // 나중에 실제 데이터 할때 search로 바꾸기
+  
+  // News completed
+  // If you want to use mock data,
+  // then use .News instead of .search(Real Youtube data)
   async News() {
     return this.apiClient
-      .search({
+      .News({
         params: {
           part: 'snippet',
           maxResults: 25,
@@ -63,12 +93,12 @@ export default class Youtube {
       .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
 
-  //Games로 바꾸기
-  //search로 바꾸기
-
+  // Game completed
+  // If you want to use mock data,
+  // then use .Games instead of .search(Real Youtube data)
   async Games() {
     return this.apiClient
-      .search({
+      .Games({
         params: {
           part: 'snippet',
           maxResults: 25,
@@ -79,11 +109,13 @@ export default class Youtube {
       .then((res) => res.data.items)
       .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
-  // search로 바꾸기..
-  // Movies로 바꾸기
+  
+  // Need to fix
+  // If you want to use mock data,
+  // then use .Movies instead of .search(Real Youtube data)
   async Movies() {
     return this.apiClient
-      .search({
+      .Movies({
         params: {
           part: 'snippet',
           maxResults: 25,
@@ -94,11 +126,13 @@ export default class Youtube {
       .then((res) => res.data.items)
       .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
-  // search로 바꾸기
-  // Sports로 바꾸기
+  
+  // Need to fix
+  // If you want to use mock data,
+  // then use .Sports instead of .search(Real Youtube data)
   async Sports() {
     return this.apiClient
-      .search({
+      .Sports({
         params: {
           part: 'snippet',
           maxResults: 25,
@@ -109,18 +143,20 @@ export default class Youtube {
       .then((res) => res.data.items)
       .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
-  // Live로바꾸기
-  // params들 바꾸기
-  // search로 바꾸기
-
+  
+  // Live completed
+  // If you want to use mock data,
+  // then use .Live instead of .search(Real Youtube data)
   async Live() {
     return this.apiClient
-      .search({
+      .Live({
         params: {
           part: 'snippet',
           maxResults: 25,
-          q: 'games for pc',
+          eventType: 'live',
           type: 'video',
+          regionCode: 'US',
+          videoCategoryId: 20
         }
       })
       .then((res) => res.data.items)
