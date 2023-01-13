@@ -2,7 +2,7 @@ export default class Youtube {
   constructor(apiClient) {
     this.apiClient = apiClient;
   }
-  // search completed
+
   async search(keyword) {
     return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
   }
@@ -28,10 +28,10 @@ export default class Youtube {
       },
     })
     .then((res) => res.data.items)
-      .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
+    .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
 
-  // keyword search completed
+  // Search By Keyword
   async #searchByKeyword(keyword) {
     return this.apiClient
       .search({
@@ -46,7 +46,7 @@ export default class Youtube {
       .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
   
-  // Most popular completed
+  // Most popular navigation & main page videos
   async #mostPopular() {
     return this.apiClient
       .videos({
@@ -59,32 +59,28 @@ export default class Youtube {
       .then((res) => res.data.items);
   }
 
-  // Music completed
-  // If you want to use mock data,
-  // then use .music instead of .search(Real Youtube data)
+  // Music navigation and query : songs
   async Music() {
     return this.apiClient
-      .music({
+      .search({
         params: {
           part: 'snippet',
           maxResults: 25,
-          q: 'top hits 2023 best songs ',
+          q: '2023 song video',
           type: 'video',
         },
       })
       .then((res) => res.data.items)
   }
-  
-  // News completed
-  // If you want to use mock data,
-  // then use .News instead of .search(Real Youtube data)
+
+  // News navigation and query : US News today
   async News() {
     return this.apiClient
-      .News({
+      .search({
         params: {
           part: 'snippet',
           maxResults: 25,
-          q: 'US News live now',
+          q: 'US News today',
           type: 'video',
           eventType:'live',
         }
@@ -93,16 +89,14 @@ export default class Youtube {
       .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
 
-  // Game completed
-  // If you want to use mock data,
-  // then use .Games instead of .search(Real Youtube data)
+  // Game navigation and query : games for online pc
   async Games() {
     return this.apiClient
-      .Games({
+      .search({
         params: {
           part: 'snippet',
           maxResults: 25,
-          q: 'games for pc',
+          q: 'games for online pc ',
           type: 'video',
         }
       })
@@ -110,16 +104,14 @@ export default class Youtube {
       .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
   
-  // Need to fix
-  // If you want to use mock data,
-  // then use .Movies instead of .search(Real Youtube data)
+  // Movie navigation and query : movies trailer
   async Movies() {
     return this.apiClient
-      .Movies({
+      .search({
         params: {
           part: 'snippet',
           maxResults: 25,
-          q: 'games for pc',
+          q: 'movies trailer',
           type: 'video',
         }
       })
@@ -127,16 +119,14 @@ export default class Youtube {
       .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
   
-  // Need to fix
-  // If you want to use mock data,
-  // then use .Sports instead of .search(Real Youtube data)
+  // Sports navigation and query : EPL highlight
   async Sports() {
     return this.apiClient
-      .Sports({
+      .search({
         params: {
           part: 'snippet',
           maxResults: 25,
-          q: 'games for pc',
+          q: 'EPL highlight',
           type: 'video',
         }
       })
@@ -144,23 +134,19 @@ export default class Youtube {
       .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
   
-  // Live completed
-  // If you want to use mock data,
-  // then use .Live instead of .search(Real Youtube data)
+  // Live navigation and query : live streaming
   async Live() {
     return this.apiClient
-      .Live({
+      .search({
         params: {
           part: 'snippet',
           maxResults: 25,
           eventType: 'live',
           type: 'video',
-          regionCode: 'US',
-          videoCategoryId: 20
+          q:'live streaming ',
         }
       })
       .then((res) => res.data.items)
       .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
-
 }

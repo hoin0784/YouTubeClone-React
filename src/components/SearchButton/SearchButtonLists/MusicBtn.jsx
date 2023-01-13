@@ -7,7 +7,9 @@ export default function MusicBtn() {
   const { youtube } = useYoutubeApi();
 
   const { isLoading, error, data: videos, }
-   = useQuery(['videos'],() => youtube.Music());
+   = useQuery(['videos'],() => youtube.Music(),{
+    staleTime: 1000* 60 *1,
+   });
   return (
     <>
       {isLoading && <p>Loading...</p>}

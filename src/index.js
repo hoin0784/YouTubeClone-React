@@ -24,7 +24,7 @@ const router = createBrowserRouter([
       { path: 'videos', element: <Videos /> },
       { path: 'videos/:keyword', element: <Videos /> },
       { path: 'videos/watch/:videoId', element: <VideoDetail /> },
-      
+      // Videos/Music/:videoId
       { path: 'Videos/Music', element: <MusicBtn /> },
       { path: 'Videos/Live', element: <LiveBtn /> },
       { path: 'Videos/games', element: <GameBtn /> },

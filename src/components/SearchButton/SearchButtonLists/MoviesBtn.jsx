@@ -6,7 +6,9 @@ import VideoCard from '../../VideoCard/VideoCard';
 export default function Movies() {
   const { youtube } = useYoutubeApi();
   const { isLoading, error, data: videos, }
-    = useQuery(['videos'], () => youtube.Movies());
+    = useQuery(['videos'], () => youtube.Movies(),{
+      staleTime: 1000 * 60 * 1,
+    });
 
   return (
     <>

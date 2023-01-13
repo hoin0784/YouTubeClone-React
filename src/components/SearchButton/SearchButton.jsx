@@ -46,7 +46,7 @@ export default function SearchButton() {
         <li>
           <Link to = 'Videos/Movies'>
             <BsCameraReelsFill className='m-auto' />
-            <h1>Movies</h1>
+            <h1>Movie</h1>
           </Link>
         </li>
 

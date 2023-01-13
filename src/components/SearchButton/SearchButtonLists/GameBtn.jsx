@@ -9,7 +9,9 @@ export default function GameBtn() {
   const { youtube } = useYoutubeApi();
 
   const { isLoading, error, data: videos, }
-    = useQuery(['videos', NavId], () => youtube.Games());
+    = useQuery(['videos', NavId], () => youtube.Games(),{
+      staleTime: 1000* 60 *1,
+    });
 
   return (
     <>
