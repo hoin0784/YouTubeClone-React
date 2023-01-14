@@ -1,9 +1,13 @@
 import React from 'react';
-import { ImMusic } from 'react-icons/im';
-import { BsCameraReelsFill, BsTrophyFill } from 'react-icons/bs'
 import { Link} from 'react-router-dom';
 import { AiTwotoneFire } from 'react-icons/ai'
 import { FaGamepad, FaRegNewspaper, FaWifi } from 'react-icons/fa'
+import {
+  BsCameraReelsFill,
+  BsTrophyFill,
+  BsPencilFill,
+  BsMusicNoteBeamed
+} from 'react-icons/bs'
 
 export default function SearchButton() {
   return (
@@ -15,14 +19,15 @@ export default function SearchButton() {
             <h1>popularity</h1>
           </Link>
         </li>
+        
         <li>
-          <Link to='Videos/Music'>
-              <ImMusic className='m-auto' />
-              <h1>Music</h1>
+          <Link to='videos/Music'>
+            <BsMusicNoteBeamed className='m-auto' />
+            <h1>Music</h1>
           </Link>
         </li>
 
-        <li  >
+        <li>
           <Link to ='Videos/Live'>
             <FaWifi className='m-auto' />
             <h1>Live</h1>
@@ -54,6 +59,13 @@ export default function SearchButton() {
           <Link to ='videos/Sports'>
             <BsTrophyFill className='m-auto' />
             <h1>Sports</h1>
+          </Link>
+        </li>
+
+        <li>
+          <Link to='Videos/Study'>
+            <BsPencilFill className='m-auto' />
+            <h1>Study</h1>
           </Link>
         </li>
 

@@ -2,7 +2,6 @@ export default class Youtube {
   constructor(apiClient) {
     this.apiClient = apiClient;
   }
-
   async search(keyword) {
     return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
   }
@@ -62,7 +61,7 @@ export default class Youtube {
   // Music navigation and query : songs
   async Music() {
     return this.apiClient
-      .music({
+      .search({
         params: {
           part: 'snippet',
           maxResults: 25,
@@ -71,12 +70,28 @@ export default class Youtube {
         },
       })
       .then((res) => res.data.items)
+      .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
+  }
+
+  // Music navigation and query : computer language
+  async Study() {
+    return this.apiClient
+      .search({
+        params: {
+          part: 'snippet',
+          maxResults: 25,
+          q: 'computer language',
+          type: 'video',
+        },
+      })
+      .then((res) => res.data.items)
+      .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
 
   // News navigation and query : US News today
   async News() {
     return this.apiClient
-      .News({
+      .search({
         params: {
           part: 'snippet',
           maxResults: 25,
@@ -92,7 +107,7 @@ export default class Youtube {
   // Game navigation and query : games for online pc
   async Games() {
     return this.apiClient
-      .Games({
+      .search({
         params: {
           part: 'snippet',
           maxResults: 25,
@@ -107,7 +122,7 @@ export default class Youtube {
   // Movie navigation and query : movies trailer
   async Movies() {
     return this.apiClient
-      .Movies({
+      .search({
         params: {
           part: 'snippet',
           maxResults: 25,
@@ -122,7 +137,7 @@ export default class Youtube {
   // Sports navigation and query : EPL highlight
   async Sports() {
     return this.apiClient
-      .Sports({
+      .search({
         params: {
           part: 'snippet',
           maxResults: 25,
@@ -137,13 +152,13 @@ export default class Youtube {
   // Live navigation and query : live streaming
   async Live() {
     return this.apiClient
-      .Live({
+      .search({
         params: {
           part: 'snippet',
           maxResults: 25,
           eventType: 'live',
           type: 'video',
-          q:'live streaming ',
+          q:'live streaming now',
         }
       })
       .then((res) => res.data.items)
