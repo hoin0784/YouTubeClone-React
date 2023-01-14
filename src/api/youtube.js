@@ -62,7 +62,7 @@ export default class Youtube {
   // Music navigation and query : songs
   async Music() {
     return this.apiClient
-      .search({
+      .music({
         params: {
           part: 'snippet',
           maxResults: 25,
@@ -76,7 +76,7 @@ export default class Youtube {
   // News navigation and query : US News today
   async News() {
     return this.apiClient
-      .search({
+      .News({
         params: {
           part: 'snippet',
           maxResults: 25,
@@ -92,7 +92,7 @@ export default class Youtube {
   // Game navigation and query : games for online pc
   async Games() {
     return this.apiClient
-      .search({
+      .Games({
         params: {
           part: 'snippet',
           maxResults: 25,
@@ -107,7 +107,7 @@ export default class Youtube {
   // Movie navigation and query : movies trailer
   async Movies() {
     return this.apiClient
-      .search({
+      .Movies({
         params: {
           part: 'snippet',
           maxResults: 25,
@@ -122,7 +122,7 @@ export default class Youtube {
   // Sports navigation and query : EPL highlight
   async Sports() {
     return this.apiClient
-      .search({
+      .Sports({
         params: {
           part: 'snippet',
           maxResults: 25,
@@ -137,7 +137,7 @@ export default class Youtube {
   // Live navigation and query : live streaming
   async Live() {
     return this.apiClient
-      .search({
+      .Live({
         params: {
           part: 'snippet',
           maxResults: 25,
