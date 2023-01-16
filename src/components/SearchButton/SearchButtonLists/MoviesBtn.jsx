@@ -1,4 +1,3 @@
-import React from 'react';
 import { useQuery } from '@tanstack/react-query';
 import { useYoutubeApi } from '../../../context/YoutubeApiContext';
 import Status from '../../VideoCard/Status';

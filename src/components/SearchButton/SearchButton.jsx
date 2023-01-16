@@ -1,4 +1,3 @@
-import React from 'react';
 import { Link} from 'react-router-dom';
 import { AiTwotoneFire } from 'react-icons/ai'
 import { FaGamepad, FaRegNewspaper, FaWifi } from 'react-icons/fa'

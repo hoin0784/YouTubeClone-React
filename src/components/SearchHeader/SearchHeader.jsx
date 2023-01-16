@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { BsYoutube, BsSearch } from 'react-icons/bs';
 import { Link, useNavigate, useParams } from 'react-router-dom';
 
