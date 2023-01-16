@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import MusicBtn from './components/SearchButton/SearchButtonLists/StudyBtn';
+import MusicBtn from './components/SearchButton/SearchButtonLists/MusicBtn';
 import LiveBtn from './components/SearchButton/SearchButtonLists/LiveBtn';
 import GameBtn from './components/SearchButton/SearchButtonLists/GameBtn';
 import NewsBtn from './components/SearchButton/SearchButtonLists/NewsBtn';

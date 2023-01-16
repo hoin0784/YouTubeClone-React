@@ -73,7 +73,7 @@ export default class Youtube {
       .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
 
-  // Music navigation and query : computer language
+  // Study navigation and query : computer language
   async Study() {
     return this.apiClient
       .search({

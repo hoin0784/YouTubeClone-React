@@ -3,7 +3,7 @@ import { useQuery } from '@tanstack/react-query';
 import { useYoutubeApi } from '../../../context/YoutubeApiContext';
 import Status from '../../VideoCard/Status';
 
-export default function Movies() {
+export default function Music() {
 
   const { youtube } = useYoutubeApi();
   const { isLoading, error, data: videos, }
